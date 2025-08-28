@@ -2,7 +2,33 @@
 
 Письменная часть (написание письма)
 
-## 2025 08 22 Telc Book - Modeltest 4
+## 2025 08 25 Telc Book pdf - Modeltest 1
+
+Liebe Daneila,
+
+danke für deine E-mail. Ich habe mich sehr darüber gefreut!
+
+Es ist toll enie große Familie haben aber es geht auch mid der vielen Dinge zu tun.
+
+Mein Tag beginnt um 6:30 Uhr. Ich mache das Früchstück für ganz Familie, wiel unsere Eltern bald nach Arbeit gehen müssen.  
+Denn essen und sprechen wir zusammen.
+
+Jeden Tag hilfe ich den Geswesteren mit der Hausaufgabe und ich gehe mit ihnen Sport treiben. Wir magen auch sehr spazieren gehen.
+
+Abends spielen wir die Komputerspielen und lesed die Büche. Manchmal spielt meine Schwester Piano.
+
+Samstags einzukaufen wir für die nexte Woche, darum haben wir kein Zeit während der Woche.
+Am Sonntag fahren wir oft nach einen See oder in der Wald, da wir müde von de Stadt sind.
+
+Ich möchte du einladen! Wollst du kommen und meine Familie kennenlernen?
+
+Ich warte auf deine Antwort.
+
+Viele Grüße
+
+Pavel
+
+## 2025 08 23 Telc Book - Modeltest 4
 
 Liebe Mari,
 
