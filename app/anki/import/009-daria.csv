@@ -3,7 +3,7 @@
 #html:true
 #tags:daria даша
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
 Die Milch;молоко;;;;
 der Husten;кашель;;;;
 teilnehmen <b>an</b> + <i>Dat</i>;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;;отделяемая приставка <b>teil<b>;;
@@ -52,7 +52,6 @@ vorgestern;позавчера;<i>Wir haben uns <b>vorgestern</b> im Café getrof
 mühegeben;прикладывать усилия;;;;;
 
 ziemlich;достаточно;<i>Das ist <b>ziemlich</b> einfach.</i>;<i>Это <b>достаточно</b> просто.</i>;;;
-zufrieden sein;быть довольным;<i>Ich bin mit meiner Arbeit <b>zufrieden</b>.</i>;<i>Я <b>доволен</b></i> своей работой.</i>;;;
 die Gewohnheit;привычка;<i>Ich habe die <b>Gewohnheit</b>, morgens Kaffee zu trinken.</i>;<i>У меня есть <b>привычка</b> пить кофе по утрам.</i>;;;
 sich gewöhnen <b>an</b> + <i>Akk</i>;привыкать к чему-то;<i>Ich kann <b>mich</b> nicht an die Kälte <b>gewöhnen</b>.</i>;<i>Я не могу <b>привыкнуть к</b> холоду.</i>;;;
 auf dem Lande;за городом;<i>Wir wohnen jetzt <b>auf dem Lande</b>.</i>;<i>Мы сейчас живем <b>за городом</b>.</i>;;;
@@ -88,3 +87,8 @@ leistungslos;бессильный;Nach dem langen Lauf fühlte ich mich völlig 
 die Wohngemeinschaft;совместное проживание;Wir wohnen in einer <b>Wohngemeinschaft</b>.;Мы живём в <b>совместной квартире</b>.;;;
 der Schriftsteller;писатель;Tolstoi war ein berühmter <b>Schriftsteller</b>.;Толстой был известным <b>писателем</b>.;;;
 fest;твёрдый, решительный, закрепленный;Er steht zu seiner Meinung sehr <b>fest</b>.;Он очень <b>твёрдо</b> придерживается своего мнения.;;;
+
+einfach;просто;Die Aufgabe ist <b>einfach</b>.;Задание <b>простое</b>.;;;;;
+der Fehler;ошибка;Ich habe einen <b>Fehler</b> gemacht.;Я сделал <b>ошибку</b>.;;;;;
+der Tagesablauf;распорядок дня;Mein <b>Tagesablauf</b> ist sehr strukturiert.<br />Erzähl mir von deinem typischen <b>Tagesablauf</b>.<br />Ein fester <b>Tagesablauf</b> hilft mir, produktiver zu sein.;Мой <b>распорядок дня</b> очень структурирован.<br />Расскажи мне о своем типичном <b>распорядке дня</b>.<br />Установленный <b>распорядок дня</b> помогает мне быть более продуктивным.;;;;;
+schicken, senden;отправлять;Kannst du mir bitte eine E-Mail <b>schicken</b>?;Можешь, пожалуйста, мне <b>отправить</b> письмо?;;;;;
