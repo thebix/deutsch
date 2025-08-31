@@ -45,3 +45,22 @@
 - mitnehmen/mitbringen - взять с собой/принести с собой
 - sogar im Januar/besonders im Januar - даже в январе, особенно в январе
 - die Stadt/der Staat - город/государство
+
+## Письмо: обязательные фразы
+
+### Вступлениен
+Liebe [Herr] [Name],
+
+vielen Dank für deine/Ihre E-mail. Ich habe mich sehr darüber gefreut.  
+
+Es ist schön, was du <b>von</b> + <i>... Datt, повторяю написанное мне ...</i> + schriebst. 
+Das freut mich, weil ... почему мне это нравится (напр, прошлая квартира была так себе) [<i>Verb</i>].  
+Schade, dass ... [<i>Verb</i>].  
+
+...
+
+Ich warte auf deine/Ihre Antwort.
+
+Viele Grüße
+
+Pavel

@@ -2,6 +2,32 @@
 
 Письменная часть (написание письма)
 
+## 2025 08 30 Tel Book pdf - Modeltest 2
+
+Liebe Eltern,
+
+vielen Dank für eure E-mail. Ich habe mich sehr darüber gefreut!
+
+Wie schön, was euch von den Japaner schriebst.
+Schade, dass der Flug sehr anstregend war.
+
+Ich habe (❓ тут как будто не нужен артикль) tolle Zeit hier! 
+
+Das Essen schmeckt sehr gut. Ich habe vier neuen Fleischessen probiert und der Koch macht ganz gut Keks.
+
+Ich habe schon viele Leute kennengelernt. Wir wohnen mit zwei deutschen Jungen - Hannes und Matthias.
+Wir gehen spazieren zusammen. Abends lesen wir (❓ тут как будто не нужен артикль) Bücher, tanzen oder spielen Computerspielen.
+
+Ich bin sehr glücklich! Ich fehle mich voll und rühig. Wir haben einen großen Wald bei dem Camp. Das macht mich gesund.
+
+Bitte bring mir einen Kimono mit!
+
+Ich warte auf eure Antwort und ich wünsche eure eine gutte Reise.
+
+Viele Grüße
+
+Pavel
+
 ## 2025 08 25 Telc Book pdf - Modeltest 1
 
 Liebe Daneila,
