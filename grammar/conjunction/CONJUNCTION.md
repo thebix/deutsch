@@ -10,3 +10,4 @@
 ## Random
 
 - Все вопросительные слова могут быть подчинительными союзами (<span style="font-size:0.8em;color:#636363">*Wir warst du müde?*</span>)
+- **seit**dem, **nach**dem - подчинительные (в отличие от trotzdem и außerdem) 
