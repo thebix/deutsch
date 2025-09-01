@@ -6,7 +6,6 @@
 #columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
 Die Milch;молоко;;;;
 der Husten;кашель;;;;
-teilnehmen <b>an</b> + <i>Dat</i>;принимать участие;<i>Ich möchte am Kurs <b>teilnehmen</b>.</i>;;отделяемая приставка <b>teil<b>;;
 das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;;;;
 froh;рад;<i>Ich bin sehr <b>froh</b>, dich zu sehen.</i>;;;;
 denken <b>an</b> + <i>Akk</i>;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;;;;
@@ -65,7 +64,7 @@ vorbereiten <b>auf</b> + <i>Dat</i>;подготавливаться к чему
 aussagen;высказывать;<i>Ich kann nichts Konkretes darüber <b>aussagen</b>.</i><br /><i>Der Zeuge <b>sagt</b> vor Gericht <b>aus</b>.</i>;<i>Я не могу ничего конкретного об этом <b>высказать</b>.</i><br /><i>Свидетель <b>дает показания</b> в суде.</i>;;;
 sich entscheiden;решаться (по отношению к себе);<i>Ich muss <b>mich entscheiden</b>, ob ich nach Berlin fahre oder nicht.</i><br /><i>Er kann <b>sich</b> nicht <b>entscheiden</b>, was er essen soll.</i>;<i>Я должен <b>решиться</b>, поеду я в Берлин или нет.</i><br /><i>Он не может <b>решиться</b>, что ему съесть.</i>;;;
 teilen;делить;<i>Wir <b>teilen</b> die Pizza in vier Stücke.</i>;<i>Мы <b>делим</b> пиццу на четыре части.</i>;;;
-mitteilen;поделиться (информацией);<i>Er hat mir eine wichtige Information <b>mitgeteilt</b>.</i>;<i>Он <b>сообщил</b> мне важную информацию.</i>;;;
+mitteilen;поделиться (информацией);<i>Er hat mir eine wichtige Information <b>mitgeteilt</b>.</i>;<i>Он <b>сообщил</b> мне важную информацию.</i>;сам факт передачи, без акцента на том, как это будет воспринято или распространено дальше;;
 bügeln;гладить;<i>Mein Vater <b>bügelt</b> immer seine Hemden selbst.</i>;<i>Мой отец всегда сам <b>гладит</b> свои рубашки.</i>;;;
 gießen;поливать;<i>Vergiss nicht, die Blumen zu <b>gießen</b>.</i>;<i>Не забудь <b>поливать</b> цветы.</i>;;;
 aufhellen;осветлять;<i>Die Sonne <b>hellt</b> den Himmel <b>auf</b>.</i>;<i>Солнце <b>осветляет</b> небо.</i>;;;
@@ -92,3 +91,8 @@ einfach;просто;Die Aufgabe ist <b>einfach</b>.;Задание <b>прос�
 der Fehler;ошибка;Ich habe einen <b>Fehler</b> gemacht.;Я сделал <b>ошибку</b>.;;;;;
 der Tagesablauf;распорядок дня;Mein <b>Tagesablauf</b> ist sehr strukturiert.<br />Erzähl mir von deinem typischen <b>Tagesablauf</b>.<br />Ein fester <b>Tagesablauf</b> hilft mir, produktiver zu sein.;Мой <b>распорядок дня</b> очень структурирован.<br />Расскажи мне о своем типичном <b>распорядке дня</b>.<br />Установленный <b>распорядок дня</b> помогает мне быть более продуктивным.;;;;;
 schicken, senden;отправлять;Kannst du mir bitte eine E-Mail <b>schicken</b>?;Можешь, пожалуйста, мне <b>отправить</b> письмо?;;;;;
+
+das Insekt;насекомое;Dieses <b>Insekt</b> hat sechs Beine.;У этого <b>насекомого</b> шесть ног.;;;;
+vermitteln;передать (информацию), посредничать;Die Lehrerin <b>vermittelt</b> den Schülern neues Wissen.;Учительница <b>передаёт</b> ученикам новые знания.;не просто передача информации, а передача с определенной целью: посредничество, передача знаний;;;;
+auszeichnen;оценивать, отмечать;Der Film wurde mit einem Preis <b>ausgezeichnet</b>. ;Фильм был <b>отмечен</b> премией.;;;;;
+schmücken;украшать;Wir <b>schmücken</b> den Weihnachtsbaum.;Мы <b>украшаем</b> ёлку.;;;;;
