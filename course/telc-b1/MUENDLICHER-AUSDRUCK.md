@@ -5,7 +5,7 @@
 Hallo!  
 Ich heiße Pavel.  
 
-Ich komme aus Russland, Moskau. Ich wurde im Norden geboren, in der Region Murmansk. So mag ich kalte Wetter.  
+Ich komme aus Russland, Moskau. Ich bin im Norden geboren, in der Region Murmansk. So mag ich kalte Wetter.  
 
 Ich wohne in einer Wohnung in Berlin mit meinem Kater Bastian.  
 Meine Eltern liebt in Russland, deshalb sehe ich sie nicht so oft. Aber ich bin glücklich, dass meine Schwester in München liebt.  

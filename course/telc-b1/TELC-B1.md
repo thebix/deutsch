@@ -46,9 +46,12 @@
 - sogar im Januar/besonders im Januar - даже в январе, особенно в январе
 - die Stadt/der Staat - город/государство
 
-## Письмо: обязательные фразы
+## Письмо
 
-### Вступлениен
+Ты (du) или вы/Вы (Sie). Пока на "них" не смотришь, они - все sie
+
+### Обязательные фразы
+
 Liebe [Herr] [Name],
 
 vielen Dank für deine/Ihre E-mail. Ich habe mich sehr darüber gefreut.  
@@ -57,6 +60,7 @@ Es ist schön, was du <b>von</b> + <i>... Datt, повторяю написан�
 Das freut mich, weil ... почему мне это нравится (напр, прошлая квартира была так себе) [<i>Verb</i>].  
 Schade, dass ... [<i>Verb</i>].  
 
+Schreib mir bescheid, wann du kommst.
 ...
 
 Ich warte auf deine/Ihre Antwort.
@@ -64,3 +68,46 @@ Ich warte auf deine/Ihre Antwort.
 Viele Grüße
 
 Pavel
+
+## Обсуждение статей
+
+говорить все что угодно, но лучше не замолкать
+
+### Обязательные фразы
+
+In diesem Text geht es um .../um das Thema.
+Ich habe eine folgende Grafik/bild bekommen.
+
+Die Grafik informiert über {*Freizeitvergrügen in Deutschland*}.  
+Die Grafik beschreibt {*Beliebste Freizeitbeschäftigungen in Prozenten*}.  
+Die Quelle ist verbraucher ... 
+Тут есть информация, что  
+In der Grafik erzählt man {*verschiedene Freizeitaktivitäten, wie zum Beispiel Fernsehen, Auto fahren und so weiten*}.  
+{*Die interessanteste Freizeitmöglichkeit für Deutsche ist Musik hören, sondern Sport ist am uninteressantesten.*}  
+
+Das ist ach meine Meinung, da ... [<i>Verb</i>].
+
+Ich bin da geteilter Mainung: einerseits [<i>Verb</i>] ..., andererseits [<i>Verb</i>] ...
+Ich stehe auf dem Standpunkt, dass ... [<i>Verb</i>]
+
+Dazu habe ich eine andere Meinung.
+
+## Планирование
+
+Говорить все что угодно, но лучше не замолкать
+
+### Обязательные фразы
+
+Lass uns besprechen, wenn wir ... [<i>Verb</i>]
+Lass uns entscheiden, ob wir ... [<i>Verb</i>] oder ... [<i>Verb</i>]
+
+Wie findest du folgende Idee: ... ?
+
+Keine schlechte Idee, aber wie wär's, wenn wir ... [<i>Verb</i>]?
+Lass uns doch lieber ... [<i>Verb</i>]
+
+Das ist eine tolle Idee.
+Das klingt gut.
+
+Ich freue mich darauf!
+Dann sehen wir uns ... (am Samstag)
