@@ -6,6 +6,7 @@
 - [Глаголы](./verb/VERB.md)
 - [Союзы](./conjunction/CONJUNCTION.md)
 - [Прилагательные](./adjective/ADJECTIVE.md)
+- [Вопросы](./question/QUESTION.md)
 - [Предложения](./sentence/SENTENCE.md)
 
 ## Инструменты

@@ -39,11 +39,12 @@
 - Zu <span style="color:#F54927">не ставится</span>
   - с <span style="color:#F54927">модальными</span> глаголами  
   <span style="font-size:0.8em;color:#636363">*Ich **muss** heute viel **arbeiten**.*</span><span style="font-size:0.65em;color:#63574A">Wrong: *Ich muss zu arbeiten.*</span>
-  - с <span style="color:#F54927">lassen, sehen, fahren, hören, bleiben, gehen</span>  
+  - прямо перед <span style="color:#F54927">lassen, sehen, fahren, hören, bleiben, gehen</span>  
   Исключение <span style="color:#F54927">um ... zu</span> в значении "*идти для того, чтобы ...*" = "*gehen ..., um ... zu [<i>Verb</i>]*"  
   <span style="font-size:0.8em;color:#636363">*Er **lässt** sein Auto **reparieren**.*</span><span style="font-size:0.65em;color:#63574A">Wrong: *Er lässt sein Auto zu reparieren.*</span>  
-  <span style="font-size:0.8em;color:#636363">*Wir **gehen** heute Abend **tanzen**.*</span><span style="font-size:0.65em;color:#63574A">Wrong: *Wir gehen zu tanzen.*</span>  
-  <span style="font-size:0.8em;color:#636363">*Ich **gehe** in den Park, um Sport **zu treiben**. (Я иду в парк, чтобы заниматься спортом)*</span>
+  <span style="font-size:0.8em;color:#636363">*Wir **gehen** heute Abend **tanzen**. Wir gehen zu tanzen.*</span>  
+  <span style="font-size:0.8em;color:#636363">*Ich **gehe** in den Park, um Sport **zu treiben**. (Я иду в парк, чтобы заниматься спортом).*</span>  
+  <span style="font-size:0.8em;color:#636363">*Ich habe versucht, **um** (может быть опущен - но запятая останется!) wie moeglich schnell **zu gehen/kommen***</span>
   - в <span style="color:#F54927">будущем</span> времени (werden)  
     <span style="font-size:0.8em;color:#636363">*Ich **werde** bald nach Berlin **fahren**.*</span><span style="font-size:0.65em;color:#63574A">Wrong: *Ich werde bald nach Berlin zu fahren.*</span>  
   - в <span style="color:#F54927">konjuktiv 2</span>  
