@@ -2,6 +2,35 @@
 
 Письменная часть (написание письма)
 
+## 2025 09 06 Tel Book pdf - Modeltest 3
+
+Liebe Joschi,
+
+vielen Dank für deine E-mail. Ich habe mich sehr darüber gefreut.
+
+Schade, dass die letzten Wochen (❓ почему letztEN WochEN, а не letztE Woche) für dich schlimm waren.  
+Es ist schön, was du von der Reise schribst. Ich komme gern!
+
+Ich habe dich so vielen Jaren (❓ или viele Jare?) nicht gesehen. Und ich hätte gern neue Leute kennenlernen. Ich bin sicher, dass deine Freinde toll sind!
+
+Werder wir da viel spazieren gehen? Muss ich die Badehose mitbirngen? Ich will am See einige Zeit berbringen.  
+Und ich möchte auch viel Zeit im Wald verbringen. 
+
+Ich bin nicht sicher, welche Kleidung ich brauchen muss. Ist da kalt oder nicht? (❓ когда вопрос делает сложное предложение, глагол идет в конец (brauchen muss)?)  
+Muss ich eine Jacke mitringen?
+
+Wie viele Zimmern (❓ или vielen Zimmern?) das Ferienhaus hat? Ist da eine Cafee neben?
+
+Ah, so viele Frage (❓ или vielen Fragen?)!
+
+Schreib mir bescheid, wann wir da fahen. (❓ тут же точка в конце, не вопрос?)
+
+Ich freue mich darauf.
+
+Viele Grüße
+
+Pavel
+
 ## 2025 08 30 Tel Book pdf - Modeltest 2
 
 Liebe Eltern,
