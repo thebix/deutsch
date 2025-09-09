@@ -8,6 +8,12 @@
 
 ## TODO
 
+- Перед экзаменом (вт)
+  - Местоимения (личные, притяжательные)
+  - Модальные глаголы (настоящее, прошедшее)
+  - Рассказ о себе
+  - Прилагательные склонение
+- 2025 09 06: У меня полная каша в голове с viele(n), letzte(n) Woche(n), Jahre(n), Zimmer(n) и тд 
 - ~~2025 08 28: Выбрать и выписать отдельно Redemitel для разных кейсов (теперь более осознанно)~~
 - ~~2025 08 24 Заучить сообщение о себе~~
 - ~~2025 08 24 Полезные слова: bevorzugen;предпочитать / zusammenfassend;подытоживая, в целом;~~
@@ -101,7 +107,7 @@ Die Quelle ist verbraucher ...
 In der Grafik erzählt man {*verschiedene Freizeitaktivitäten, wie zum Beispiel Fernsehen, Auto fahren und so weiten*}.  
 {*Die interessanteste Freizeitmöglichkeit für Deutsche ist Musik hören, sondern Sport ist am uninteressantesten.*}  
 
-Das ist ach meine Meinung, da ... [<i>Verb</i>].
+Das ist auch meine Meinung, da ... [<i>Verb</i>].
 
 Ich bin da geteilter Mainung: einerseits [<i>Verb</i>] ..., andererseits [<i>Verb</i>] ...
 Ich stehe auf dem Standpunkt, dass ... [<i>Verb</i>]
