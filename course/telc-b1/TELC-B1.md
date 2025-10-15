@@ -109,7 +109,7 @@ In der Grafik erzählt man {*verschiedene Freizeitaktivitäten, wie zum Beispiel
 
 Das ist auch meine Meinung, da ... [<i>Verb</i>].
 
-Ich bin da geteilter Mainung: einerseits [<i>Verb</i>] ..., andererseits [<i>Verb</i>] ...
+Ich bin da geteilter Meinung: einerseits [<i>Verb</i>] ..., andererseits [<i>Verb</i>] ...
 Ich stehe auf dem Standpunkt, dass ... [<i>Verb</i>]
 
 Dazu habe ich eine andere Meinung.
