@@ -1,0 +1,12 @@
+#Сохраненное через Flascard бота
+#separator:Semicolon
+#html:true
+#tags:flashcardbot
+#notetype:German:Bot
+#columns:Front;Back;Example;ExampleTranslation;FrontNoSeparator;;Notes;Synonym;Context;ContextTranslation;
+fügen;добавлять;Bitte <b>fügen</b> Sie Ihrem Bericht mehr Details hinzu.<br />Wir <b>fügen</b> jeden Monat neue Produkte hinzu.;Пожалуйста, <b>добавьте</b> больше деталей в ваш отчет.<br />Мы <b>добавляем</b> новые продукты каждый месяц.;;;;;;;
+günstig;дешевый;Das Essen hier ist sehr <b>günstig</b>.<br />Ich habe ein <b>günstig</b>es Hotel gebucht.;Еда здесь очень <b>дешевая</b>.<br />Я забронировал <b>дешевый</b> отель.;;;;;;;
+anhand;на основе;Wir können die Ergebnisse <b>anhand</b> der Daten analysieren.<br />Der Bericht wurde <b>anhand</b> der neuesten Informationen erstellt.;Мы можем проанализировать результаты <b>на основе</b> данных.<br />Доклад был составлен <b>на основе</b> новейшей информации.;;;;;;;
+die Befriedigung;удовлетворение;Die <b>Befriedigung</b> des Kunden hat für uns oberste Priorität.<br />Es ist wichtig, dass die <b>Befriedigung</b> der Mitarbeiter gewährleistet wird.;Удовлетворение клиентов для нас имеет высший приоритет.<br />Важно, чтобы было обеспечено <b>удовлетворение</b> сотрудников.;;;;;;;
+das Bedürfnis;потребность;Jeder Mensch hat ein <b>Bedürfnis</b> nach Liebe.<br />Die <b>Bedürfnisse</b> der Kinder müssen ernst genommen werden.;Каждый человек имеет <b>потребность</b> в любви.<br /><b>Потребности</b> детей должны приниматься всерьез.;;;;;;;
+die Abrundung;округление;Die <b>Abrundung</b> der Ecken macht das Design weicher.<br />Die <b>Abrundung</b> der Zahlen ist wichtig für die Berechnungen.;Округление углов делает дизайн более мягким.<br />Округление чисел важно для расчетов.;;;;;;;
