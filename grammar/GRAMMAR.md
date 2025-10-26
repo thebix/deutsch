@@ -2,12 +2,21 @@
 
 ## Оглавление
 
+### Части речи
+
 - [Существительные](./noun/NOUN.md)
 - [Глаголы](./verb/VERB.md)
 - [Союзы](./conjunction/CONJUNCTION.md)
 - [Прилагательные](./adjective/ADJECTIVE.md)
 - [Вопросы](./question/QUESTION.md)
+
+### Конструкции
+
 - [Предложения](./sentence/SENTENCE.md)
+
+### Прочее
+
+- [Произношение](./pronunciation/PRONUNCIATION.md)
 
 ## Инструменты
 
