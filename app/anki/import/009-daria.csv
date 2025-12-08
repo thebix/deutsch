@@ -48,7 +48,7 @@ die Prüfung;экзамен;<i>Morgen habe ich eine schwierige <b>Prüfung</b>.<
 prüfen;проверять;<i>Der Lehrer wird meine Hausaufgaben <b>prüfen</b>.</i>;;;;
 übermorgen;послезавтра;<i>Ich fliege <b>übermorgen</b> nach Hause.</i>;;;;
 vorgestern;позавчера;<i>Wir haben uns <b>vorgestern</b> im Café getroffen.</i>;;;;
-mühegeben;прикладывать усилия;;;;;
+mühe geben;прикладывать усилия;;;;;
 
 ziemlich;достаточно;<i>Das ist <b>ziemlich</b> einfach.</i>;<i>Это <b>достаточно</b> просто.</i>;;;
 die Gewohnheit;привычка;<i>Ich habe die <b>Gewohnheit</b>, morgens Kaffee zu trinken.</i>;<i>У меня есть <b>привычка</b> пить кофе по утрам.</i>;;;
@@ -306,3 +306,42 @@ die Zufriedenheit;удовлетворение;Er lebt in großer <b>Zufriedenhe
 verbinden;связывать;Ein Tunnel <b>verbindet</b> die zwei Städte.;Тоннель <b>соединяет</b> два города;;;;;
 verbunden sein;быть связанным;Ich fühle mich stark mit meiner Familie <b>verbunden</b>.;Я чувствую себя крепко <b>связанным</b> со своей семьей;;;;;
 das Verhältnis;поведение, отношение;Das <b>Verhältnis</b> zwischen den Kollegen ist gut.;<b>Отношения</b> между коллегами хорошие;;;;;
+
+dünn;тонкий,худой;Das Mädchen ist sehr <b>dünn</b>.;Девочка очень <b>худая</b>.;;;;;
+dick;толстый;Der Mantel ist ziemlich <b>dick</b>.;Пальто довольно <b>толстое</b>.;;;;;
+die Staffel;сезон (сериала);Wir schauen heute die neue <b>Staffel</b>. ;Мы сегодня смотрим новый <b>сезон</b>.;;;;;
+retten;спасать;Der Hund hat das Kind <b>gerettet</b>.;Собака <b>спасла</b> ребенка.;;;;;
+tief;глубокий;Der See ist sehr <b>tief</b>.;Озеро очень <b>глубокое</b>.;;;;;
+das Gedächtnis;память;Mein <b>Gedächtnis</b> ist heute schlecht. ;У меня сегодня плохая <b>память</b>.;;;;;
+der Wert;ценность;Freundschaft hat für mich großen <b>Wert</b>.;Дружба имеет для меня большую <b>ценность</b>.;;;;;
+bewerten;оценивать;Der Lehrer muss die Prüfungen <b>bewerten</b>.;Учитель должен <b>оценить</b> экзамены.;;;;
+wegschmeißen;выбрасывать;Du solltest den alten Kram <b>wegschmeißen</b>.;Тебе следует <b>выбросить</b> старый хлам.;;;;
+werfen;бросать;Wir <b>werfen</b> den Ball ins Tor.;Мы <b>бросаем</b> мяч в ворота.;;;;;
+streiten;спорить, ругаться;Wir <b>streiten</b> nicht oft.;Мы не часто <b>спорим</b>.;;;;;
+der Streit;спор, ссора;Der <b>Streit</b> war schnell vorbei.;<b>Ссора</b> быстро закончилась.;;;;;
+der Haushalt;домашнее хозяйство;Er macht den ganzen <b>Haushalt</b> alleine.;Он делает весь <b>домашний хозяйство</b> один.;;;;;
+verurteilen;осуждать;Der Richter wird den Angeklagten bald <b>verurteilen</b>.;Судья скоро <b>осудит</b> обвиняемого.;;;;
+das Vorurteil;предубеждение;Ein <b>Vorurteil</b> kann gefährlich sein.;<b>Предубеждение</b> может быть опасным.;;;;;
+die Verurteilung;осуждение, приговор;Nach der <b>Verurteilung</b> ging er ins Gefängnis.;После <b>осуждения</b> он отправился в тюрьму.;;;;
+streng;строгий;Mein Lehrer ist sehr <b>streng</b>.;Мой учитель очень <b>строгий</b>.;;;;;
+arrogant;высокомерный, надменный, заносчивый;Er wirkt manchmal <b>arrogant</b>.;Он иногда кажется <b>высокомерным</b>.;;;;;
+vermeiden;избегать;Du solltest Fehler <b>vermeiden</b>.;Ты должен <b>избегать</b> ошибок.;;;;
+üben;упражняться;Du musst jeden Tag <b>üben</b>.;Тебе нужно <b>упражняться</b> каждый день.;;;;;
+überzeugen;убеждать;Ich versuche, dich zu <b>überzeugen</b>.;Я пытаюсь тебя <b>убедить</b>.;;;;;
+
+der Zustand;состояние;Der <b>Zustand</b> des Autos ist schlecht.;<b>Состояние</b> машины плохое.;;;;;
+werden;становиться;Ich möchte Arzt <b>werden</b>.;Я хочу <b>стать</b> врачом.;;;;;
+der Anzug (die Anzüge);парадный костюм;Er trägt einen eleganten schwarzen <b>Anzug</b>.;Он носит элегантный черный <b>костюм</b>.;;;;
+der Rechner;калькулятор, компьютер;Mein <b>Rechner</b> ist sehr schnell.;Мой <b>калькулятор</b> очень быстрый.;;;;;
+weh tun;болеть;Mein Kopf <b>tut</b> weh.;У меня <b>болит</b> голова.;;;;;
+es tut mir weh;мне больно;Es <b>tut</b> mir weh, wenn ich laufe.;Мне <b>больно</b>, когда я иду.;;;;;
+zuvor;до этого, прежде;Er rief mich an, kurz <b>zuvor</b>.;Он позвонил мне незадолго <b>до этого</b>.;;;;
+am Strand;на пляже;Wir liegen <b>am Strand</b> und entspannen.;Мы лежим <b>на пляже</b> и отдыхаем.;;;;;
+aufwachen;просыпаться;Ich <b>wache</b> jeden Tag um 7 Uhr <b>auf</b>. ;Я <b>просыпаюсь</b> каждый день в 7 утра.;;;;;
+das Lied;песня;Dieses <b>Lied</b> ist sehr schön.;Эта <b>песня</b> очень красивая.;;;;;
+
+versuchen;пытаться, пробовать;Ich werde <b>versuchen</b>, die Aufgabe zu lösen.;Я <b>попытаюсь</b> решить эту задачу.;;;;
+einfach;просто;Das ist nicht so <b>einfach</b>.;<b>Просто</b> это не так;;;;;
+die Witze;шутка;Er erzählt immer gute <b>Witze</b>.;Он всегда рассказывает хорошие <b>шутки</b>;;;;;
+bereits;уже;Er hat das <b>bereits</b> erledigt.;Он это <b>уже</b> сделал;;;;;
+reiben;тереть;Man muss den Käse fein <b>reiben</b>. ;Нужно мелко <b>тереть</b> сыр;;;;;

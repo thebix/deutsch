@@ -8,3 +8,12 @@
 
 - [Miro board](https://miro.com/app/board/uXjVNUHPu_k=/)
 - [AnnenMayKantereit [spotify]](https://open.spotify.com/track/13Fo5bvBmmDDaMGtLlAqB5?si=Ks4vfql3SSSZkMGbLVLvXA) - слушать немецкий через музыку [source: 2025 07 18]
+
+## ДЗ
+
+- ~~Ответ про использование тастатур (3-4 предложения)~~
+- ~~Слова по телу человека~~
+- календарь
+- страницу 4 и на ней делаешь два последних
+- страница 3 упражнение 2
+- 2. Норер 7
