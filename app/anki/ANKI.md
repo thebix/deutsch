@@ -2,6 +2,7 @@
 
 - [History](./HISTORY.md) - история
 - [ai/Prompts](./ai/PROMPTS.md) - промпты
+- [ai/Commands](./ai/COMMANDS.md) - комманды
 - [config](./config/CONFIG.md) - конфигурация приложения
 
 ## Соглашения
