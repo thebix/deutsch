@@ -38,7 +38,7 @@ achten <b>auf</b> + <i>Akk</i>;обращать внимание на что-т�
 wegwerfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;;
 
 fühlen sich;чувствовать себя;<i>Nach einem langen Arbeitstag <b>fühle ich mich</b> müde.</i>;;;;
-schwach;слабый;<i>Er ist nach der Krankheit noch <b>schwach</b>.</i>;;;;
+schwach;слабый, мягкий (в т.ч. ткань);<i>Er ist nach der Krankheit noch <b>schwach</b>.</i>;;;;
 erholen sich;отдыхать;<i>Wir <b>erholen uns</b> am Wochenende am Meer.</i>;;;;
 die Entscheidung treffen;принимать решение;<i>Wir müssen bald <b>eine Entscheidung treffen</b>.</i>;;;;
 die Vergangenheit;прошлое;<i>Wir sprechen oft über <b>die Vergangenheit</b>.</i>;;;;
@@ -514,3 +514,4 @@ einnehmen;принимать (таблетки);Du musst diese Tabletten dreimal
 verzichten <b>auf</b> + <i>Akk</i>;отказываться от чего-либо;Er hat auf Süßigkeiten <b>verzichtet</b>.;Он <b>отказался от</b> сладкого.;;;;;
 das Fernweh;тяга к путешествиям;Im Frühling packt mich immer das <b>Fernweh</b>.;Весной меня всегда охватывает <b>тяга к путешествиям</b>.;;;;;
 entstehen;возникать, появляться;Durch die Hitze kann ein Brand <b>entstehen</b>.;Из-за жары может <b>возникнуть</b> пожар.;;;;;
+das Gewebe;ткань;Die Haut ist ein wichtiges <b>Gewebe</b> des Körpers.;Кожа — важная <b>ткань</b> тела.;;;;;
