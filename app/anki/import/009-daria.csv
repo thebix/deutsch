@@ -339,7 +339,7 @@ am Strand;на пляже;Wir liegen <b>am Strand</b> und entspannen.;Мы ле�
 aufwachen;просыпаться;Ich <b>wache</b> jeden Tag um 7 Uhr <b>auf</b>. ;Я <b>просыпаюсь</b> каждый день в 7 утра.;;;;;
 das Lied;песня;Dieses <b>Lied</b> ist sehr schön.;Эта <b>песня</b> очень красивая.;;;;;
 
-versuchen;пытаться, пробовать;Ich werde <b>versuchen</b>, die Aufgabe zu lösen.;Я <b>попытаюсь</b> решить эту задачу.;;;;
+versuchen;стараться;Ich werde <b>versuchen</b>, die Aufgabe zu lösen.;Я <b>попытаюсь</b> решить эту задачу.;;probieren;;
 einfach;просто;Das ist nicht so <b>einfach</b>.;<b>Просто</b> это не так;;;;;
 die Witze;шутка;Er erzählt immer gute <b>Witze</b>.;Он всегда рассказывает хорошие <b>шутки</b>;;;;;
 bereits;уже;Er hat das <b>bereits</b> erledigt.;Он это <b>уже</b> сделал;;;;;
@@ -515,3 +515,13 @@ verzichten <b>auf</b> + <i>Akk</i>;отказываться от чего-либ
 das Fernweh;тяга к путешествиям;Im Frühling packt mich immer das <b>Fernweh</b>.;Весной меня всегда охватывает <b>тяга к путешествиям</b>.;;;;;
 entstehen;возникать, появляться;Durch die Hitze kann ein Brand <b>entstehen</b>.;Из-за жары может <b>возникнуть</b> пожар.;;;;;
 das Gewebe;ткань;Die Haut ist ein wichtiges <b>Gewebe</b> des Körpers.;Кожа — важная <b>ткань</b> тела.;;;;;
+
+der Unterschied;разница;Was ist der <b>Unterschied</b> zwischen diesen beiden Wörtern?;В чём <b>разница</b> между этими двумя словами?;;;;
+sauber;чистый;Das Zimmer ist sehr <b>sauber</b>.;Комната очень <b>чистая</b>.;;;;
+verständlich / unverständlich;понятный / непонятный;Seine Erklärung war sehr <b>verständlich</b>.;Его объяснение было очень <b>понятным</b>.;;;;
+sich gönnen;наслаждаться, позволять себе;Nach der Arbeit <b>gönne ich mir</b> ein Stück Kuchen.;После работы я <b>позволяю себе</b> кусочек торта.;;;;
+fühlen;чувствовать;Ich <b>fühle</b> die Wärme der Sonne.;Я <b>чувствую</b> тепло солнца.;;;;
+wahrnehmen;воспринимать;Ich <b>nehme</b> die Stimmung im Raum <b>wahr</b>.;Я <b>воспринимаю</b> атмосферу в комнате.;;;;
+spüren;ощущать, гиперболизированно чувствовать;Ich <b>spüre</b>, dass etwas nicht stimmt.;Я <b>ощущаю</b>, что что-то не так.;;;;
+der Traum;мечта;Mein <b>Traum</b> ist es, die Welt zu bereisen.;Моя <b>мечта</b> — объехать весь мир.;;;;
+arbeiten <b>an</b> + <i>Akk</i>;работать над чем-то;Er <b>arbeitet an</b> einem neuen Projekt.;Он <b>работает над</b> новым проектом.;;;;
