@@ -3,7 +3,7 @@
 #html:true
 #tags:daria даша
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation;FrontNoSeparator
 die Milch;молоко;;;;
 der Husten;кашель;;;;
 das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;;;;
@@ -525,3 +525,7 @@ wahrnehmen;воспринимать;Ich <b>nehme</b> die Stimmung im Raum <b>wah
 spüren;ощущать, гиперболизированно чувствовать;Ich <b>spüre</b>, dass etwas nicht stimmt.;Я <b>ощущаю</b>, что что-то не так.;;;;
 der Traum;мечта;Mein <b>Traum</b> ist es, die Welt zu bereisen.;Моя <b>мечта</b> — объехать весь мир.;;;;
 arbeiten <b>an</b> + <i>Akk</i>;работать над чем-то;Er <b>arbeitet an</b> einem neuen Projekt.;Он <b>работает над</b> новым проектом.;;;;
+
+das Heimweh;тяга к дому, ностальгия;Im Ausland überkommt mich oft das <b>Heimweh</b>.<br />Sie hat großes <b>Heimweh</b> nach ihrer Familie.;За границей меня часто охватывает <b>тоска по дому</b>.<br />Она очень скучает по семье.;;;;;;
+hervor·rufen;вызывать (реакцию, чувство);Das kann starke Emotionen <b>hervor·rufen</b>.<br />Die Nachricht <b>ruft</b> Freude <b>hervor</b>.<br />Der Film hat viele Tränen <b>hervor·ge·rufen</b>.<br />Das Erdbeben rief Panik <b>hervor</b>.;Это может <b>вызвать</b> сильные эмоции.<br />Новость <b>вызывает</b> радость.<br />Фильм <b>вызвал</b> много слёз.<br />Землетрясение <b>вызвало</b> панику.;;;;;hervorrufen;
+her·kommen;приходить (сюда), происходить;Woher <b>kommst</b> du <b>her</b>?<br />Er ist gestern <b>her·ge·kommen</b>.<br />Früher <b>kam</b> sie jeden Sonntag <b>her</b>.;Откуда ты <b>родом</b>?<br />Он <b>пришёл</b> вчера.<br />Раньше она <b>приходила</b> каждое воскресенье.;;;;;herkommen;
