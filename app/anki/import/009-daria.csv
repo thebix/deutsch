@@ -29,17 +29,16 @@ die Wissenschaft;наука;<i><b>Wissenschaft</b> ist sehr wichtig für die Zuk
 halten;держать;<i>Kannst du das bitte kurz <b>halten</b>?</i>;;;;
 das Gleichgewicht;баланс;<i>Er hat das <b>Gleichgewicht</b> verloren.</i>;;;;
 teilweise;частично;<i>Das Ergebnis ist nur <b>teilweise</b> korrekt.</i>;;;;
-sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.</i>;;;;
+sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.<br /><i>Wir <b>erholen uns</b> am Wochenende am Meer.</i>;;;;
 die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;;;;
 betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;;;;
 bestehen <b>aus</b> + <i>Dat</i>;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;
 unterschiedlich;разнообразный;<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;;
 achten <b>auf</b> + <i>Akk</i>;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;;
-wegwerfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;;
+weg·werfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;weg·schmeißen;;;wegwerfen;
 
 fühlen sich;чувствовать себя;<i>Nach einem langen Arbeitstag <b>fühle ich mich</b> müde.</i>;;;;
 schwach;слабый, мягкий (в т.ч. ткань);<i>Er ist nach der Krankheit noch <b>schwach</b>.</i>;;;;
-erholen sich;отдыхать;<i>Wir <b>erholen uns</b> am Wochenende am Meer.</i>;;;;
 die Entscheidung treffen;принимать решение;<i>Wir müssen bald <b>eine Entscheidung treffen</b>.</i>;;;;
 die Vergangenheit;прошлое;<i>Wir sprechen oft über <b>die Vergangenheit</b>.</i>;;;;
 die Gegenwart;настоящее;<i>Manchmal ist es wichtig, im Moment, in <b>der Gegenwart</b>, zu leben.</i>;;;;
@@ -80,7 +79,7 @@ zeigen;показывать;Kannst du mir bitte den Weg <b>zeigen</b>?;Може�
 sammeln;собирать;Die Kinder <b>sammeln</b> bunte Blätter.;Дети <b>собирают</b> разноцветные листья.;;;
 
 lustig;весело;Das Buch ist sehr <b>lustig</b>.;Эта книга очень <b>смешная</b>.;;;
-das Buch, die Bücher;книга,книги;Ich lese gern <b>Bücher</b>.;Я люблю читать <b>книги</b>.;;;
+das Buch (die Bücher);книга,книги;Ich lese gern <b>Bücher</b>.;Я люблю читать <b>книги</b>.;;;
 leistungsstark;мощный, производительный;Mein Computer ist sehr <b>leistungsstark</b>.;Мой компьютер очень <b>мощный</b>.;;;
 leistungslos;бессильный;Nach dem langen Lauf fühlte ich mich völlig <b>leistungslos</b>.;После долгого бега я чувствовал себя совершенно <b>бессильным</b>.;;;
 die Wohngemeinschaft;совместное проживание;Wir wohnen in einer <b>Wohngemeinschaft</b>.;Мы живём в <b>совместной квартире</b>.;;;
@@ -94,7 +93,7 @@ schicken, senden;отправлять;Kannst du mir bitte eine E-Mail <b>schicke
 
 das Insekt;насекомое;Dieses <b>Insekt</b> hat sechs Beine.;У этого <b>насекомого</b> шесть ног.;;;;
 vermitteln;передать (информацию), посредничать;Die Lehrerin <b>vermittelt</b> den Schülern neues Wissen.;Учительница <b>передаёт</b> ученикам новые знания.;не просто передача информации, а передача с определенной целью: посредничество, передача знаний;;;;
-auszeichnen;оценивать, отмечать;Der Film wurde mit einem Preis <b>ausgezeichnet</b>. ;Фильм был <b>отмечен</b> премией.;;;;;
+aus·zeichnen;оценивать, награждать;Der Film wurde mit einem Preis <b>ausgezeichnet</b>. ;Фильм был <b>отмечен</b> премией.;;;;;auszeichnen;
 schmücken;украшать;Wir <b>schmücken</b> den Weihnachtsbaum.;Мы <b>украшаем</b> ёлку.;;;;;
 
 enthalten;содержать;Dieses Buch <b>enthält</b> viele Bilder.;Эта книга <b>содержит</b> много картинок.;;;;;
@@ -147,7 +146,7 @@ die Rückmeldung;обратная связь, фидбек;Ich habe eine positiv
 schätzen;ценить, дорожить;Ich <b>schätze</b> deine Hilfe sehr.;Я очень <b>ценю</b> твою помощь.;;;;;
 allerdings;однако;<b>Allerdings</b> habe ich keine Zeit heute.;<b>Однако</b> у меня сегодня нет времени.;;;;;
 vorkommen;случаться, происходить;So etwas kann <b>vorkommen</b>.;Такое может <b>случиться</b>.;;;;;
-weit;далеко, широкий;Der Weg zum See ist sehr <b>weit</b>.;Дорога к озеру очень <b>далекая</b>.;;;;;
+weit;далеко;Der Weg zum See ist sehr <b>weit</b>.;Дорога к озеру очень <b>далекая</b>.;;;;;
 
 das Ziel, der Zweck;цель;Mein <b>Ziel</b> ist es, Deutsch gut zu lernen.;Моя <b>цель</b> — хорошо выучить немецкий.;;;;;
 die Auswirkung;последствие;Die <b>Auswirkungen</b> des Klimawandels sind deutlich.;<b>Последствия</b> изменения климата очевидны.;;;;;
@@ -195,7 +194,7 @@ die Belastung;нагрузка;Diese Arbeit ist eine große <b>Belastung</b> fü
 die Eigenschaft;качество, свойство;Ehrlichkeit ist eine gute <b>Eigenschaft</b>.;Честность — это хорошее <b>качество</b>.;;;;;
 die Schlagfertigkeit;находчивость;Er bewundert ihre <b>Schlagfertigkeit</b> in Diskussionen.;Он восхищается её <b>находчивостью</b> в дискуссиях.;;;;;
 die Flexibilität;гибкость;In diesem Beruf braucht man <b>Flexibilität</b>.;В этой профессии нужна <b>гибкость</b>.;;;;;
-anstrengend;напряжённый;Die Arbeit im Krankenhaus ist sehr <b>anstrengend</b>.;Работа в больнице очень <b>напряжённая</b>.;;;;;
+anstrengend;напряжённый, утомительный;Die Arbeit im Krankenhaus ist sehr <b>anstrengend</b>.<br />Der Job ist sehr <b>anstrengend</b>.;Работа в больнице очень <b>напряжённая</b>.<br />Эта работа очень <b>утомительная</b>.;;;;;
 begeistern;вдохновлять;Das Konzert hat mich sehr <b>begeistert</b>.;Концерт меня очень <b>вдохновил</b>.;;;;;
 anerkennen;признавать;Die Firma <b>erkennt</b> seine Leistung <b>an</b>.;Компания <b>признаёт</b> его достижения.;;;;;
 erleben;переживать, испытывать;Ich möchte dieses Abenteuer <b>erleben</b>.;Я хочу <b>пережить</b> это приключение.;;;;;
@@ -254,7 +253,7 @@ einschränken;ограничивать;Wir müssen den Konsum <b>einschränken</
 die Einschränkung;ограничение;Es gibt viele <b>Einschränkungen</b> im Alltag.;В повседневной жизни много <b>ограничений</b>;;;;;
 der Gedanke;мысль;Der <b>Gedanke</b> gefällt mir.;Мне нравится эта <b>мысль</b>;;;;;
 
-fortsetzen;продолжать;Wir <b>setzen</b> die Arbeit morgen <b>fort</b>.;Мы <b>продолжим</b> работу завтра;;;;;
+fort·setzen;продолжать;Wir <b>setzen</b> die Arbeit morgen <b>fort</b>.;Мы <b>продолжим</b> работу завтра;;;;;fortsetzen;
 schweigen;молчать;Er <b>schweigt</b> und sagt nichts.;Он <b>молчит</b> и ничего не говорит;;;;;
 ansehen;смотреть, рассматривать;Sie <b>sieht</b> sich den Film <b>an</b>.;Она <b>смотрит</b> фильм;;shauen;;;
 fleißig;прилежный;Sie ist eine sehr <b>fleißige</b> Schülerin.;Она очень <b>прилежная</b> ученица.;;;;;
@@ -313,8 +312,8 @@ retten;спасать;Der Hund hat das Kind <b>gerettet</b>.;Собака <b>с�
 tief;глубокий;Der See ist sehr <b>tief</b>.;Озеро очень <b>глубокое</b>.;;;;;
 das Gedächtnis;память;Mein <b>Gedächtnis</b> ist heute schlecht. ;У меня сегодня плохая <b>память</b>.;;;;;
 der Wert;ценность;Freundschaft hat für mich großen <b>Wert</b>.;Дружба имеет для меня большую <b>ценность</b>.;;;;;
-bewerten;оценивать;Der Lehrer muss die Prüfungen <b>bewerten</b>.;Учитель должен <b>оценить</b> экзамены.;;;;
-wegschmeißen;выбрасывать;Du solltest den alten Kram <b>wegschmeißen</b>.;Тебе следует <b>выбросить</b> старый хлам.;;;;
+be·werten;оценивать, выставлять баллы;Der Lehrer muss die Prüfungen <b>bewerten</b>.;Учитель должен <b>оценить</b> экзамены.;;;;;bewerten;
+weg·schmeißen;выбрасывать (разг);Du solltest den alten Kram <b>wegschmeißen</b>.;Тебе следует <b>выбросить</b> старый хлам.;;weg·werfen;;;wegschmeißen;
 werfen;бросать;Wir <b>werfen</b> den Ball ins Tor.;Мы <b>бросаем</b> мяч в ворота.;;;;;
 streiten;спорить, ругаться;Wir <b>streiten</b> nicht oft.;Мы не часто <b>спорим</b>.;;;;;
 der Streit;спор, ссора;Der <b>Streit</b> war schnell vorbei.;<b>Ссора</b> быстро закончилась.;;;;;
@@ -363,8 +362,8 @@ die Hüfte (die Hüften);бедро, бок;Sie hat Probleme mit der <b>Hüfte</
 das Schienbein (die Schienbeine);голень;Er bekam einen Tritt gegen das <b>Schienbein</b>.;Он получил удар по <b>голени</b>.;;;;
 der Fuß (die Füße);стопа;Ich habe mir den <b>Fuß</b> verletzt.;Я повредил себе <b>стопу</b>.;;;;
 die Zehe (die Zehen);палец ноги;Sie hat sich die kleine <b>Zehe</b> gestoßen.;Она ударилась о маленький <b>палец ноги</b>.;;;;
-das Oberteil (die Oberteile);верхняя часть одежды;Ich brauche ein neues <b>Oberteil</b> für den Sommer.;Мне нужна новая <b>верхняя часть одежды</b> на лето.;;;;
-das Unterteil (die Unterteile);нижняя часть одежды;Das <b>Unterteil</b> passt nicht zum Rest des Anzugs.;<b>Нижняя часть</b> не подходит к остальному костюму.;;;;
+das Oberteil (die Oberteile);верхняя часть (тела, одежды);Ich brauche ein neues <b>Oberteil</b> für den Sommer.;Мне нужна новая <b>верхняя часть одежды</b> на лето.;;;;
+das Unterteil (die Unterteile);нижняя часть (тела, одежды);Das <b>Unterteil</b> passt nicht zum Rest des Anzugs.;<b>Нижняя часть</b> не подходит к остальному костюму.;;;;
 
 Sport treiben;заниматься спортом;Ich <b>treibe</b> jeden Tag <b>Sport</b>.;Я <b>занимаюсь спортом</b> каждый день.;;;;
 die Schweiz;Швейцария;Ich fahre nächsten Sommer in die <b>Schweiz</b>.;Я еду следующим летом в <b>Швейцарию</b>.;;;;
@@ -529,3 +528,11 @@ arbeiten <b>an</b> + <i>Akk</i>;работать над чем-то;Er <b>arbeit
 das Heimweh;тяга к дому, ностальгия;Im Ausland überkommt mich oft das <b>Heimweh</b>.<br />Sie hat großes <b>Heimweh</b> nach ihrer Familie.;За границей меня часто охватывает <b>тоска по дому</b>.<br />Она очень скучает по семье.;;;;;;
 hervor·rufen;вызывать (реакцию, чувство);Das kann starke Emotionen <b>hervor·rufen</b>.<br />Die Nachricht <b>ruft</b> Freude <b>hervor</b>.<br />Der Film hat viele Tränen <b>hervor·ge·rufen</b>.<br />Das Erdbeben rief Panik <b>hervor</b>.;Это может <b>вызвать</b> сильные эмоции.<br />Новость <b>вызывает</b> радость.<br />Фильм <b>вызвал</b> много слёз.<br />Землетрясение <b>вызвало</b> панику.;;;;;hervorrufen;
 her·kommen;приходить (сюда), происходить;Woher <b>kommst</b> du <b>her</b>?<br />Er ist gestern <b>her·ge·kommen</b>.<br />Früher <b>kam</b> sie jeden Sonntag <b>her</b>.;Откуда ты <b>родом</b>?<br />Он <b>пришёл</b> вчера.<br />Раньше она <b>приходила</b> каждое воскресенье.;;;;;herkommen;
+
+das Spiel;игра;Wir spielen heute Abend ein <b>Spiel</b>.<br />Die Kinder lieben viele verschiedene <b>Spiele</b>.;Мы сегодня вечером играем в <b>игру</b>.<br />Дети любят разные <b>игры</b>.;;;;;;
+erzählen;рассказывать;Er <b>erzählt</b> uns eine spannende Geschichte.<br />Sie hat uns von ihrer Reise <b>erzählt</b>.<br />Er <b>erzählte</b> uns von seiner Kindheit.;Он <b>рассказывает</b> нам захватывающую историю.<br />Она <b>рассказала</b> нам о своей поездке.<br />Он <b>рассказывал</b> нам о своём детстве.;;;;;;
+zufällig;случайно;Ich habe ihn <b>zufällig</b> auf der Straße getroffen.<br />Das war ein völlig <b>zufälliger</b> Fund.;Я <b>случайно</b> встретил его на улице.<br />Это была совершенно <b>случайная</b> находка.;;;;;;
+erklären;объяснять;Der Lehrer <b>erklärt</b> uns die Regel sehr verständlich.<br />Er hat uns die Aufgabe genau <b>erklärt</b>.<br />Sie <b>erklärte</b> mir den Weg zum Bahnhof.;Учитель <b>объясняет</b> нам правило очень понятно.<br />Он <b>объяснил</b> нам задание подробно.<br />Она <b>объяснила</b> мне дорогу до вокзала.;;;;;;
+ein·richten;обустраивать, обставлять;Ich <b>richte</b> mein neues Zimmer gemütlich <b>ein</b>.<br />Wir haben das Büro modern <b>ein·ge·richtet</b>.<br />Er <b>richtete</b> die Wohnung sorgfältig <b>ein</b>.;Я <b>обустраиваю</b> свою новую комнату уютно.<br />Мы <b>обустроили</b> офис в современном стиле.<br />Он тщательно <b>обставил</b> квартиру.;;;;;einrichten;
+ab·schließen;заканчивать этап, закрывать на ключ;Er <b>schließt</b> die Haustür sorgfältig <b>ab</b>.<br />Wir haben die Verhandlungen erfolgreich <b>ab·ge·schlossen</b>.<br />Er <b>schloss</b> das Projekt pünktlich <b>ab</b>.;Он тщательно <b>закрывает</b> входную дверь.<br />Мы успешно <b>завершили</b> переговоры.<br />Он <b>завершил</b> проект вовремя.;;beenden;;;abschließen;
+beenden;завершать, заканчивать;Er <b>beendet</b> seine Arbeit um 18 Uhr.<br />Sie hat das Gespräch abrupt <b>beendet</b>.<br />Er <b>beendete</b> sein Studium mit Auszeichnung.;Он <b>заканчивает</b> работу в 18 часов.<br />Она резко <b>завершила</b> разговор.<br />Он <b>закончил</b> учёбу с отличием.;;;;;;

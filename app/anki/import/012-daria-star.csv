@@ -3,12 +3,11 @@
 #html:true
 #tags:daria даша
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation;FrontNoSeparator
 weshalb;зачем;<i>Ich verstehe nicht, <b>weshalb</b> er das getan hat.</i>;<i>Я не понимаю, <b>зачем</b> он это сделал.</i>;;;
 wertvoll;ценный;<i>Das Museum stellt viele <b>wertvolle</b> Gemälde aus.</i>;<i>Музей выставляет много <b>ценных</b> картин.</i>;;;
 eigentlich;наконец, на самом деле;<i>Was wolltest du <b>eigentlich</b> sagen?</i>;<i>Что ты <b>вообще-то</b> хотел сказать?</i>;;;
 klappen;получаться;<i>Ich hoffe, dass alles <b>klappt</b>.</i>;<i>Я надеюсь, что все <b>получится</b>.</i>;;;
-anstrengend;утомительный, напряженный;<i>Der Job ist sehr <b>anstrengend</b>.</i>;<i>Эта работа очень <b>утомительная</b>.</i>;;;
 innerhalb;внутри(пространство), в течение (времени);<i>Sie müssen <b>innerhalb</b> von 10 Minuten hier sein.<br />Das Schloss liegt <b>innerhalb</b> der Stadtmauern.</i>;<i>Вы должны быть здесь <b>в течение</b> 10 минут.</i><br />Замок находится <b>внутри</b> городских стен.;;drinnen;
 die Ablehnung;отказ;<i>Ich habe eine <b>Ablehnung</b> für meinen Antrag bekommen.</i>;<i>Я получил <b>отказ</b> на мою заявку.</i>;;;
 die Herstellung;производство;<i><b>Die Herstellung</b> von Autos ist sehr komplex.</i>;<i><b>Производство</b> автомобилей очень сложное.</i>;;;
@@ -16,7 +15,7 @@ herstellen;производить;<i>Dieses Unternehmen kann Tische und Stühle 
 schaffen;создавать;<i>Ich <b>schaffe</b> es, die Arbeit bis Freitag zu beenden.</i>;<i>Я <b>справлюсь</b> с работой до пятницы.</i>;;;
 das Gerät;прибор;<i>Mein neues <b>Gerät</b> funktioniert sehr gut.</i>;<i>Мой новый <b>прибор</b> работает очень хорошо.</i>;;;
 der Schluss;окончание;<i>Ich bin müde, machen wir <b>Schluss</b>.</i>;<i>Я устал, давайте <b>заканчивать</b>.</i>;;;
-Schluss machen;заканчивать;<i>Ich habe <b>mit ihm Schluss gemacht</b>.</i>;<i>Я <b>с ним рассталась</b>.</i>;beenden;;
+Schluss machen;(разг) заканчивать, расставаться;<i>Ich habe <b>mit ihm Schluss gemacht</b>.</i>;<i>Я <b>с ним рассталась</b>.</i>;beenden;;
 entwickeln;развивать, разрабатывать;<i>Das Unternehmen möchte neue Produkte <b>entwickeln</b>.</i>;<i>Компания хочет <b>разрабатывать</b> новые продукты.</i>;;;
 echt;реально, правдиво;<i>Das ist <b>echt</b> eine gute Idee!</i>;<i>Это <b>действительно</b> хорошая идея!</i>;;;
 
@@ -39,7 +38,7 @@ aufpassen;приглядывать (следить);Kannst du bitte auf meine Ki
 sorgen <b>für</b> + <i>Akk</i>;заботиться о чем-то (переживать за);Wer <b>sorgt</b> für die Kinder?;Кто <b>заботится</b> о детях?;;;
 pflegen;ухаживать;Sie muss ihre kranke Mutter <b>pflegen</b>.;Она должна <b>ухаживать</b> за своей больной матерью.;;;
 die Einladung;приглашение;Wir haben eine <b>Einladung</b> zur Hochzeit bekommen.;Мы получили <b>приглашение</b> на свадьбу.;;;
-kennenlernen + <i>Akk</i>;знакомиться с кем-то;Ich möchte deine Familie <b>kennenlernen</b>.;Я хочу <b>познакомиться</b> с твоей семьей.;;;
+kennen·lernen + <i>Akk</i>;знакомиться с кем-то;Ich möchte deine Familie <b>kennenlernen</b>.;Я хочу <b>познакомиться</b> с твоей семьей.;;;;;kennenlernen;
 es gibt;есть, имеется;In der Stadt <b>gibt es</b> viele Museen.;В городе <b>имеется</b> много музеев.;;;
 
 der Name;имя;Mein <b>Name</b> ist Pavel.;Моё <b>имя</b> Павел.;;;
@@ -74,5 +73,5 @@ zurückkehren;возвращаться;Er möchte in seine Heimatstadt <b>zurüc
 begeistern sich;вдохновляться;Sie <b>begeistert sich</b> für Kunst.;Она <b>вдохновляется</b> искусством.;;inspiriren;;;
 
 verlassen (sich + <b>auf</b> + <i>Akk</i>);покидать, полагаться (на кого-то);Ich kann mich immer <b>auf</b> meine Freunde <b>verlassen</b>.;Я всегда могу <b>положиться на</b> своих друзей.;;;;
-außen;снаружи;Es ist kalt <b>außen</b>.;<b>Снаружи</b> холодно.;;;;
+außen;снаружи;Der Apfel ist <b>außen</b> rot, aber innen weiß.;Яблоко <b>снаружи</b> красное, а внутри белое.;;;внешнюю поверхность;
 die Person;персона;Nur eine <b>Person</b> war im Raum.;В комнате был только один <b>человек</b>.;;;;;
