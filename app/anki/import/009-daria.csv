@@ -32,8 +32,9 @@ teilweise;частично;<i>Das Ergebnis ist nur <b>teilweise</b> korrekt.</i>
 sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.<br /><i>Wir <b>erholen uns</b> am Wochenende am Meer.</i>;;;;
 die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;;;;
 betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;;;;
-bestehen <b>aus</b> + <i>Dat</i>;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;
-unterschiedlich;разнообразный;<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;;
+bestehen <b>aus</b> + <i>Dat</i>;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;;;
+unterschiedlich;различные (отличные друг др друга);<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;verschiedene;контраст, различие между чем-то;;;
+verschiedene;разные (всякие);In der Stadt gibt es <b>verschiedene</b> Museen.;В городе есть <b>разные</b> музеи;;unterschiedlich;подчеркивает разнообразие;;;
 achten <b>auf</b> + <i>Akk</i>;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;;
 weg·werfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;weg·schmeißen;;;wegwerfen;
 
@@ -96,7 +97,7 @@ vermitteln;передать (информацию), посредничать;Die
 aus·zeichnen;оценивать, награждать;Der Film wurde mit einem Preis <b>ausgezeichnet</b>. ;Фильм был <b>отмечен</b> премией.;;;;;auszeichnen;
 schmücken;украшать;Wir <b>schmücken</b> den Weihnachtsbaum.;Мы <b>украшаем</b> ёлку.;;;;;
 
-enthalten;содержать;Dieses Buch <b>enthält</b> viele Bilder.;Эта книга <b>содержит</b> много картинок.;;;;;
+enthalten;содержать, включать в себя;Dieses Buch <b>enthält</b> viele Bilder.;Эта книга <b>содержит</b> много картинок.;;;;;
 die Aufgabe;задание;Die Lehrerin gibt den Schülern eine <b>Aufgabe</b>.;Учительница дала ученикам <b>задание</b>.;;;;;
 die Herausforderung;вызов, испытание;Das Projekt ist eine große <b>Herausforderung</b>.;Этот проект — большое <b>испытание</b>.;;;;;
 die Wand (die Wände);стена;Ein Bild hängt an der <b>Wand</b>.;Картина висит на <b>стене</b>.;;;;;
@@ -176,8 +177,8 @@ stören + <i>Akk</i>;мешать (кому-то);Kann ich dich kurz <b>stören<
 sich vertiefen;углубляться;Ich möchte mich in das Thema <b>vertiefen</b>.;Я хочу <b>углубиться</b> в эту тему.;;;;
 
 die Prüfung bestehen;сдавать экзамен;Er hat die <b>Prüfung bestanden</b>.;Он <b>сдал экзамен</b>.;;;;;
-der Vorteil;преимущество;Ein Auto hat den <b>Vorteil</b>, dass man flexibel ist.;У автомобиля есть <b>преимущество</b> — можно быть гибким.;;;;;
-der Nachteil;недостаток;Ein großer <b>Nachteil</b> dieser Wohnung ist der Preis.;Большой <b>недостаток</b> этой квартиры — цена.;;;;;
+der Vorteil;преимущество, плюс;Ein Auto hat den <b>Vorteil</b>, dass man flexibel ist.;У автомобиля есть <b>преимущество</b> — можно быть гибким.;;;;;
+der Nachteil;недостаток, минус;Ein großer <b>Nachteil</b> dieser Wohnung ist der Preis.;Большой <b>недостаток</b> этой квартиры — цена.;;;;;
 abwechslungsreich;полный разнообразия;Sein Job ist sehr <b>abwechslungsreich</b>.;Его работа очень <b>разнообразная</b>.;;;;;
 arm;бедный;Er ist sehr <b>arm</b> und hat kein Geld.;Он очень <b>бедный</b> и у него нет денег.;;;;;
 reich;богатый;Sie ist <b>reich</b> und reist oft.;Она <b>богатая</b> и часто путешествует.;;;;;
@@ -210,7 +211,7 @@ bemerkbar;заметный;Die Temperaturänderung ist kaum <b>bemerkbar</b>.;И
 
 selten;редко;Ich esse <b>selten</b> Fleisch.;Я ем мясо <b>редко</b>.;;;;;
 erlauben;разрешать;Meine Eltern <b>erlauben</b> mir das nicht.;Мои родители мне это не <b>разрешают</b>.;;;;;
-entweder ... oder;либо ... либо;Du kannst <b>entweder</b> Tee <b>oder</b> Kaffee trinken.;Ты можешь пить <b>либо</b> чай, <b>либо</b> кофе.;;;;;
+союз!! entweder ... oder;либо ... либо;Du kannst <b>entweder</b> Tee <b>oder</b> Kaffee trinken.;Ты можешь пить <b>либо</b> чай, <b>либо</b> кофе.;;;;;
 träumen + <b>von</b> <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einer Reise nach Japan.;Я <b>мечтаю о</b> поездке в Японию.;;;;;
 verfilmen;снимать (фильмы, видео);Der Regisseur möchte den Roman <b>verfilmen</b>.;Режиссер хочет <b>экранизировать</b> этот роман.;;;;
 der Zeitpunkt;момент;Der <b>Zeitpunkt</b> war günstig.;<b>Момент</b> был удачный.;;;;;
@@ -434,7 +435,7 @@ unerwartet;неожиданно;Der Besuch kam völlig <b>unerwartet</b>.;Виз
 bekommen (bekam – bekommen);получать;Ich habe ein Geschenk <b>bekommen</b>.;Я <b>получил</b> подарок.;;;;;
 der Rabatt;скидка;Auf dieses Produkt gibt es 20% <b>Rabatt</b>.;На этот товар <b>скидка</b> 20%.;;;;;
 müde sein <b>von</b> + <i>Dat</i>;устать от чего-то;Ich bin <b>müde von</b> der langen Reise.;Я <b>устал от</b> долгой поездки.;;;;;
-der Mangel;недостаток, нехватка;Es gibt einen <b>Mangel</b> an Fachkräften.;Есть <b>нехватка</b> специалистов.;;das Fehlen;;;
+der Mangel;деффект, дефицит, нехватка;Es gibt einen <b>Mangel</b> an Fachkräften.;Есть <b>нехватка</b> специалистов.;;das Fehlen;;;
 wirtschaftlich;экономический;Die <b>wirtschaftliche</b> Lage ist stabil.;<b>Экономическая</b> ситуация стабильна.;;;;;
 der Beitrag;взнос, вклад;Jeder leistet seinen <b>Beitrag</b> zum Projekt.;Каждый вносит свой <b>вклад</b> в проект.;;;;;
 sich beschäftigen <b>mit</b> + <i>Dat</i>;заниматься чем-то;Er <b>beschäftigt sich mit</b> Musik.;Он <b>занимается</b> музыкой.;;;;;
@@ -536,3 +537,9 @@ erklären;объяснять;Der Lehrer <b>erklärt</b> uns die Regel sehr verst
 ein·richten;обустраивать, обставлять;Ich <b>richte</b> mein neues Zimmer gemütlich <b>ein</b>.<br />Wir haben das Büro modern <b>ein·ge·richtet</b>.<br />Er <b>richtete</b> die Wohnung sorgfältig <b>ein</b>.;Я <b>обустраиваю</b> свою новую комнату уютно.<br />Мы <b>обустроили</b> офис в современном стиле.<br />Он тщательно <b>обставил</b> квартиру.;;;;;einrichten;
 ab·schließen;заканчивать этап, закрывать на ключ;Er <b>schließt</b> die Haustür sorgfältig <b>ab</b>.<br />Wir haben die Verhandlungen erfolgreich <b>ab·ge·schlossen</b>.<br />Er <b>schloss</b> das Projekt pünktlich <b>ab</b>.;Он тщательно <b>закрывает</b> входную дверь.<br />Мы успешно <b>завершили</b> переговоры.<br />Он <b>завершил</b> проект вовремя.;;beenden;;;abschließen;
 beenden;завершать, заканчивать;Er <b>beendet</b> seine Arbeit um 18 Uhr.<br />Sie hat das Gespräch abrupt <b>beendet</b>.<br />Er <b>beendete</b> sein Studium mit Auszeichnung.;Он <b>заканчивает</b> работу в 18 часов.<br />Она резко <b>завершила</b> разговор.<br />Он <b>закончил</b> учёбу с отличием.;;;;;;
+
+das Geheimnis;секрет;Kannst du ein <b>Geheimnis</b> für dich behalten?<br />Er hat mir alle seine <b>Geheimnisse</b> verraten.;Ты можешь хранить <b>секрет</b>?<br />Он рассказал мне все свои <b>секреты</b>.;;;;;;
+die Anforderung;требование;Diese <b>Anforderung</b> ist schwer zu erfüllen.<br />Die <b>Anforderungen</b> für den Job sind sehr hoch.;Это <b>требование</b> сложно выполнить.<br /><b>Требования</b> для этой работы очень высокие.;;;;;;
+ansonsten;иначе, в ином случае;Wir müssen früh aufbrechen, <b>ansonsten</b> kommen wir zu spät.<br />Ich habe das Formular ausgefüllt, <b>ansonsten</b> hätte man mir den Antrag abgelehnt.;Нам нужно выйти рано, <b>иначе</b> мы опоздаем.<br />Я заполнил форму, <b>иначе</b> мне бы отказали в заявлении.;;;;;;
+das Niveau;уровень;Das <b>Niveau</b> dieser Schule ist sehr hoch.<br />Die <b>Niveaus</b> der Schüler sind sehr unterschiedlich.;Уровень этой школы очень высокий.<br /><b>Уровни</b> учеников очень разные.;;;;;;
+zwingen;заставить, принуждать;Niemand kann dich dazu <b>zwingen</b>.<br />Er hat sie <b>gezwungen</b>, die Wahrheit zu sagen.;Никто не может тебя <b>заставить</b> это сделать.<br />Он <b>вынудил</b> её сказать правду.;;;;;;

@@ -45,7 +45,7 @@ der Name;имя;Mein <b>Name</b> ist Pavel.;Моё <b>имя</b> Павел.;;;
 das Wetter;погода;Heute ist das <b>Wetter</b> schön.;Сегодня <b>погода</b> хорошая.;;;
 die Antwort;ответ;Vielen Dank für deine <b>Antwort</b>.;Большое спасибо за твой <b>ответ</b>.;;;
 denken <b>an</b> + <i>Akk</i>;думать о чем-то/ком-то;<i>Ich <b>denke an</b> dich.</i>;;;;
-überlassen;передавать;Ich <b>überlasse</b> dir die Entscheidung.;Я <b>передаю</b> тебе это решение.;;;
+überlassen;передавать (слишком много);Ich <b>überlasse</b> dir die Entscheidung.;Я <b>передаю</b> тебе это решение.;;;
 allzu;слишком, при всем при этом;Das war alles zu schwierig und wie haben beide entschieden, dass es <b>allzu</b> für uns beide;Это все было слишком сложным, и мы оба решили, что это для обоих все <b>перебор/слишком<b/>.
 
 übrigens;кстати;<b>Übrigens</b>, hast du meine E-Mail bekommen?;<b>Кстати</b>, ты получил моё письмо?;;;
@@ -72,6 +72,6 @@ böse;злой;Er ist heute sehr <b>böse</b>. ;Он сегодня очень <
 zurückkehren;возвращаться;Er möchte in seine Heimatstadt <b>zurückkehren</b>. ;Он хочет <b>вернуться</b> в свой родной город.;;;;;
 begeistern sich;вдохновляться;Sie <b>begeistert sich</b> für Kunst.;Она <b>вдохновляется</b> искусством.;;inspiriren;;;
 
-verlassen (sich + <b>auf</b> + <i>Akk</i>);покидать, полагаться (на кого-то);Ich kann mich immer <b>auf</b> meine Freunde <b>verlassen</b>.;Я всегда могу <b>положиться на</b> своих друзей.;;;;
+verlassen (sich + <b>auf</b> + <i>Akk</i>);покидать/расставаться, полагаться (на кого-то);Ich kann mich immer <b>auf</b> meine Freunde <b>verlassen</b>.;Я всегда могу <b>положиться на</b> своих друзей.;;;;
 außen;снаружи;Der Apfel ist <b>außen</b> rot, aber innen weiß.;Яблоко <b>снаружи</b> красное, а внутри белое.;;;внешнюю поверхность;
 die Person;персона;Nur eine <b>Person</b> war im Raum.;В комнате был только один <b>человек</b>.;;;;;
