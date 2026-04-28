@@ -3,7 +3,7 @@
 #html:true
 #tags:daria даша
 #notetype:German
-#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation;FrontNoSeparator
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation;FrontNoSeparator;Form2;Form3
 die Milch;молоко;;;;
 der Husten;кашель;;;;
 das Geschäft;магазин, бизнес;<i>Ich gehe in <b>das Geschäft</b>, um Brot zu kaufen.</i>;;;;
@@ -33,8 +33,8 @@ sich erholen;отдыхать;<i>Ich möchte mich im Urlaub <b>erholen</b>.<br /
 die Wirtschaft;экономика;<i>Die <b>Wirtschaft</b> wächst langsam.</i>;;;;
 betragen;сопоставлять;<i>Die Kosten <b>betragen</b> 100 Euro.</i>;;;;
 bestehen <b>aus</b> + <i>Dat</i>;состоять из чего-либо;<i>Das Team <b>besteht aus</b> fünf Personen.</i>;;;;;;
-unterschiedlich;различные (отличные друг др друга);<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;verschiedene;контраст, различие между чем-то;;;
-verschiedene;разные (всякие);In der Stadt gibt es <b>verschiedene</b> Museen.;В городе есть <b>разные</b> музеи;;unterschiedlich;подчеркивает разнообразие;;;
+unterschiedlich;различные (отличные друг от друга);<i>Die Meinungen sind sehr <b>unterschiedlich</b>.</i>;;;verschiedene;;контраст, различие между чем-то;;
+verschiedene;разные (всякие);In der Stadt gibt es <b>verschiedene</b> Museen.;В городе есть <b>разные</b> музеи;;unterschiedlich;;подчеркивает разнообразие;;
 achten <b>auf</b> + <i>Akk</i>;обращать внимание на что-то;<i>Bitte <b>achten Sie auf</b> den Verkehr.</i>;;;;
 weg·werfen;выбрасывать;<i>Du sollst den Müll nicht einfach <b>wegwerfen</b>.</i>;;отделяемая приставка <b>teil<b>;weg·schmeißen;;;wegwerfen;
 
@@ -117,7 +117,7 @@ langweilig;скучный;Der Film war sehr <b>langweilig</b>. ;Фильм бы�
 die Sendung;передача;Die neue <b>Sendung</b> läuft heute Abend im Fernsehen.;Новая <b>передача</b> идет сегодня вечером по телевизору.;;;;;
 
 zuvor;до того;Wir haben uns schon lange <b>zuvor</b> getroffen.;Мы встретились еще задолго <b>до того</b>.;;;;;
-das Schloss;замок;In Bayern gibt es ein berühmtes <b>Schloss</b>.;В Баварии есть знаменитый <b>замок</b>.;;;;;
+das Schloss;за́мок;In Bayern gibt es ein berühmtes <b>Schloss</b>.;В Баварии есть знаменитый <b>замок</b>.;;;;;
 erwarten;ожидать;Ich habe das nicht <b>erwartet</b>.;Я этого не <b>ожидал</b>.;;;;;
 farbig;цветной;Die Zeichnung ist sehr <b>farbig</b>.;Рисунок очень <b>цветной</b>.;;;;;
 beeindruckend;впечатляющий;Die Aussicht war wirklich <b>beeindruckend</b>.;Вид был действительно <b>впечатляющим</b>.;;;;;
@@ -211,7 +211,6 @@ bemerkbar;заметный;Die Temperaturänderung ist kaum <b>bemerkbar</b>.;И
 
 selten;редко;Ich esse <b>selten</b> Fleisch.;Я ем мясо <b>редко</b>.;;;;;
 erlauben;разрешать;Meine Eltern <b>erlauben</b> mir das nicht.;Мои родители мне это не <b>разрешают</b>.;;;;;
-союз!! entweder ... oder;либо ... либо;Du kannst <b>entweder</b> Tee <b>oder</b> Kaffee trinken.;Ты можешь пить <b>либо</b> чай, <b>либо</b> кофе.;;;;;
 träumen + <b>von</b> <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einer Reise nach Japan.;Я <b>мечтаю о</b> поездке в Японию.;;;;;
 verfilmen;снимать (фильмы, видео);Der Regisseur möchte den Roman <b>verfilmen</b>.;Режиссер хочет <b>экранизировать</b> этот роман.;;;;
 der Zeitpunkt;момент;Der <b>Zeitpunkt</b> war günstig.;<b>Момент</b> был удачный.;;;;;
@@ -306,7 +305,7 @@ verbinden;связывать;Ein Tunnel <b>verbindet</b> die zwei Städte.;То�
 verbunden sein;быть связанным;Ich fühle mich stark mit meiner Familie <b>verbunden</b>.;Я чувствую себя крепко <b>связанным</b> со своей семьей;;;;;
 das Verhältnis;поведение, отношение;Das <b>Verhältnis</b> zwischen den Kollegen ist gut.;<b>Отношения</b> между коллегами хорошие;;;;;
 
-dünn;тонкий,худой;Das Mädchen ist sehr <b>dünn</b>.;Девочка очень <b>худая</b>.;;;;;
+dünn;тонкий, худой;Das Mädchen ist sehr <b>dünn</b>.;Девочка очень <b>худая</b>.;;;;;
 dick;толстый;Der Mantel ist ziemlich <b>dick</b>.;Пальто довольно <b>толстое</b>.;;;;;
 die Staffel;сезон (сериала);Wir schauen heute die neue <b>Staffel</b>. ;Мы сегодня смотрим новый <b>сезон</b>.;;;;;
 retten;спасать;Der Hund hat das Kind <b>gerettet</b>.;Собака <b>спасла</b> ребенка.;;;;;
@@ -432,7 +431,7 @@ der Wissenschaftler;учёный;Der <b>Wissenschaftler</b> hat eine Entdeckung 
 
 das Geld;деньги;Ich habe kein <b>Geld</b> mehr.;У меня больше нет <b>денег</b>.;;;;;
 unerwartet;неожиданно;Der Besuch kam völlig <b>unerwartet</b>.;Визит был совершенно <b>неожиданным</b>.;;;;;
-bekommen (bekam – bekommen);получать;Ich habe ein Geschenk <b>bekommen</b>.;Я <b>получил</b> подарок.;;;;;
+bekommen;получать (3ф);Ich habe ein Geschenk <b>bekommen</b>.;Я <b>получил</b> подарок.;;;;;;bekam;bekommen;
 der Rabatt;скидка;Auf dieses Produkt gibt es 20% <b>Rabatt</b>.;На этот товар <b>скидка</b> 20%.;;;;;
 müde sein <b>von</b> + <i>Dat</i>;устать от чего-то;Ich bin <b>müde von</b> der langen Reise.;Я <b>устал от</b> долгой поездки.;;;;;
 der Mangel;деффект, дефицит, нехватка;Es gibt einen <b>Mangel</b> an Fachkräften.;Есть <b>нехватка</b> специалистов.;;das Fehlen;;;
@@ -524,7 +523,7 @@ fühlen;чувствовать;Ich <b>fühle</b> die Wärme der Sonne.;Я <b>ч�
 wahrnehmen;воспринимать;Ich <b>nehme</b> die Stimmung im Raum <b>wahr</b>.;Я <b>воспринимаю</b> атмосферу в комнате.;;;;
 spüren;ощущать, гиперболизированно чувствовать;Ich <b>spüre</b>, dass etwas nicht stimmt.;Я <b>ощущаю</b>, что что-то не так.;;;;
 der Traum;мечта;Mein <b>Traum</b> ist es, die Welt zu bereisen.;Моя <b>мечта</b> — объехать весь мир.;;;;
-arbeiten <b>an</b> + <i>Akk</i>;работать над чем-то;Er <b>arbeitet an</b> einem neuen Projekt.;Он <b>работает над</b> новым проектом.;;;;
+arbeiten <b>an</b> + <i>Dat</i>;работать над чем-то;Er <b>arbeitet an</b> einem neuen Projekt.;Он <b>работает над</b> новым проектом.;;;;
 
 das Heimweh;тяга к дому, ностальгия;Im Ausland überkommt mich oft das <b>Heimweh</b>.<br />Sie hat großes <b>Heimweh</b> nach ihrer Familie.;За границей меня часто охватывает <b>тоска по дому</b>.<br />Она очень скучает по семье.;;;;;;
 hervor·rufen;вызывать (реакцию, чувство);Das kann starke Emotionen <b>hervor·rufen</b>.<br />Die Nachricht <b>ruft</b> Freude <b>hervor</b>.<br />Der Film hat viele Tränen <b>hervor·ge·rufen</b>.<br />Das Erdbeben rief Panik <b>hervor</b>.;Это может <b>вызвать</b> сильные эмоции.<br />Новость <b>вызывает</b> радость.<br />Фильм <b>вызвал</b> много слёз.<br />Землетрясение <b>вызвало</b> панику.;;;;;hervorrufen;
@@ -543,3 +542,17 @@ die Anforderung;требование;Diese <b>Anforderung</b> ist schwer zu erf�
 ansonsten;иначе, в ином случае;Wir müssen früh aufbrechen, <b>ansonsten</b> kommen wir zu spät.<br />Ich habe das Formular ausgefüllt, <b>ansonsten</b> hätte man mir den Antrag abgelehnt.;Нам нужно выйти рано, <b>иначе</b> мы опоздаем.<br />Я заполнил форму, <b>иначе</b> мне бы отказали в заявлении.;;;;;;
 das Niveau;уровень;Das <b>Niveau</b> dieser Schule ist sehr hoch.<br />Die <b>Niveaus</b> der Schüler sind sehr unterschiedlich.;Уровень этой школы очень высокий.<br /><b>Уровни</b> учеников очень разные.;;;;;;
 zwingen;заставить, принуждать;Niemand kann dich dazu <b>zwingen</b>.<br />Er hat sie <b>gezwungen</b>, die Wahrheit zu sagen.;Никто не может тебя <b>заставить</b> это сделать.<br />Он <b>вынудил</b> её сказать правду.;;;;;;
+
+es geht <b>um</b> + <i>Akk</i> (= es handelt sich <b>um</b> + <i>Akk</i>);речь идёт о;In diesem Film <b>geht es um</b> Freundschaft und Vertrauen.<br />Es <b>ist</b> am Ende <b>um</b> viel Geld <b>gegangen</b>.<br />Es <b>ging</b> schließlich <b>um</b> Leben und Tod.;В этом фильме <b>речь идёт о</b> дружбе и доверии.<br /><b>Речь шла</b> в конечном счёте <b>о</b> больших деньгах.<br />В итоге <b>речь шла</b> о жизни и смерти.;;;;;;
+der Kampf;борьба, бой (упорная, физическая);Der <b>Kampf</b> gegen die Armut ist noch nicht gewonnen.<br />Die <b>Kämpfe</b> an der Grenze dauerten mehrere Wochen.;<b>Борьба</b> с бедностью ещё не выиграна.<br /><b>Бои</b> на границе продолжались несколько недель.;;;;;;
+die Bekämpfung;борьба с чем-либо, противодействие (процесс);Die <b>Bekämpfung</b> des Klimawandels erfordert globale Zusammenarbeit.<br />Früher war die <b>Bekämpfung</b> von Infektionskrankheiten viel schwieriger.;Для <b>борьбы</b> с изменением климата требуется глобальное сотрудничество.<br />Раньше <b>борьба</b> с инфекционными болезнями была намного сложнее.;;;;;;
+der Vortrag;презентация, выступление;Der Professor hält einen interessanten <b>Vortrag</b> über Klimawandel.<br />Die <b>Vorträge</b> auf der Konferenz waren sehr informativ.;Профессор читает интересный <b>доклад</b> о климатических изменениях.<br /><b>Доклады</b> на конференции были очень информативными.;;;;;;
+die Verbindung;связь, соединение;Die <b>Verbindung</b> zwischen den beiden Städten ist sehr gut.<br />Alle <b>Verbindungen</b> zum Internet wurden unterbrochen.;<b>Связь</b> между двумя городами очень хорошая.<br />Все <b>соединения</b> с интернетом были прерваны.;;;;;;
+verlieren;терять, проигрывать;Ich <b>verliere</b> immer meinen Schlüssel.<br />Wir haben das Spiel <b>verloren</b>.<br />Er <b>verlor</b> seinen Job wegen der Krise.;Я всегда <b>теряю</b> свой ключ.<br />Мы <b>проиграли</b> матч.<br />Он <b>потерял</b> работу из-за кризиса.;;;;;;
+vertrauen + <i>Dat</i>;доверять;Ich <b>vertraue</b> dir vollständig.<br />Sie hat ihm blind <b>vertraut</b>.<br />Er <b>vertraute</b> seinen Freunden mehr als seiner Familie.;Я полностью тебе <b>доверяю</b>.<br />Она <b>доверяла</b> ему слепо.<br />Он <b>доверял</b> друзьям больше, чем семье.;;;;;;
+aus·drücken;выражать;Kannst du das klar <b>aus·drücken</b>?<br />Er <b>drückt</b> seine Meinung direkt <b>aus</b>.<br />Ich habe das leider falsch <b>aus·gedrückt</b>.<br />Sie <b>drückte</b> ihre Dankbarkeit mit Worten <b>aus</b>.;Можешь ли ты ясно <b>выразить</b> это?<br />Он <b>выражает</b> своё мнение прямо.<br />Я к сожалению <b>выразил</b> это неправильно.<br />Она <b>выразила</b> свою благодарность словами.;;;;;ausdrücken;
+einzelne;отдельный, единичный (конкретный, определённый);<b>Einzelne</b> Schüler haben die Aufgabe nicht verstanden.<br />Es gibt <b>einzelne</b> Ausnahmen von dieser Regel.;<b>Отдельные</b> ученики не поняли задание.<br />Есть <b>отдельные</b> исключения из этого правила.;;;;;;
+die Amtssprache;официальный язык;Deutsch ist die <b>Amtssprache</b> Österreichs.<br />In der Schweiz gibt es vier <b>Amtssprachen</b>.;Немецкий — <b>официальный язык</b> Австрии.<br />В Швейцарии четыре <b>официальных языка</b>.;;;;;;
+der Anruf;звонок;Ich habe einen <b>Anruf</b> verpasst.<br />Heute hatte ich mehrere <b>Anrufe</b>.;Я пропустил <b>звонок</b>.<br />Сегодня у меня было несколько <b>звонков</b>.;;;;;;
+einige;некоторые, несколько;<b>Einige</b> Schüler kommen aus Deutschland.<br />Ich habe noch <b>einige</b> Fragen.;<b>Некоторые</b> ученики из Германии.<br />У меня ещё есть <b>несколько</b> вопросов.;;;;;;
+
