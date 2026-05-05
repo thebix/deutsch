@@ -188,7 +188,6 @@ die Bewegung;движение;Mehr <b>Bewegung</b> ist gut für die Gesundheit.;
 das Geschirr;посудa;Ich muss das <b>Geschirr</b> spülen.;Мне нужно помыть <b>посуду</b>.;;;;;
 die Verantwortung;ответственность;Er trägt große <b>Verantwortung</b> in seiner Arbeit.;Он несёт большую <b>ответственность</b> на работе.;;;;;
 die Wirkung;влияние;Das Medikament hat eine starke <b>Wirkung</b>.;Это лекарство оказывает сильное <b>влияние</b>.;;;;;
-die Auswirkung;последствие;Die <b>Auswirkungen</b> des Klimawandels sind ernst.;<b>Последствия</b> изменения климата серьёзны.;;;;;
 wirken auf;влиять на что-то;Kaffee <b>wirkt auf</b> den Körper.;Кофе <b>влияет на</b> организм.;;;;;
 körperlich;физически;Er arbeitet <b>körperlich</b> sehr hart.;Он работает <b>физически</b> очень тяжело.;;;;;
 die Belastung;нагрузка;Diese Arbeit ist eine große <b>Belastung</b> für mich.;Эта работа — большая <b>нагрузка</b> для меня.;;;;;
@@ -431,7 +430,7 @@ der Wissenschaftler;учёный;Der <b>Wissenschaftler</b> hat eine Entdeckung 
 
 das Geld;деньги;Ich habe kein <b>Geld</b> mehr.;У меня больше нет <b>денег</b>.;;;;;
 unerwartet;неожиданно;Der Besuch kam völlig <b>unerwartet</b>.;Визит был совершенно <b>неожиданным</b>.;;;;;
-bekommen;получать (3ф);Ich habe ein Geschenk <b>bekommen</b>.;Я <b>получил</b> подарок.;;;;;;bekam;bekommen;
+bekommen;получать (3ф);Ich habe ein Geschenk <b>bekommen</b>.;Я <b>получил</b> подарок.;;erhalten;;;;bekam;bekommen;
 der Rabatt;скидка;Auf dieses Produkt gibt es 20% <b>Rabatt</b>.;На этот товар <b>скидка</b> 20%.;;;;;
 müde sein <b>von</b> + <i>Dat</i>;устать от чего-то;Ich bin <b>müde von</b> der langen Reise.;Я <b>устал от</b> долгой поездки.;;;;;
 der Mangel;деффект, дефицит, нехватка;Es gibt einen <b>Mangel</b> an Fachkräften.;Есть <b>нехватка</b> специалистов.;;das Fehlen;;;
@@ -556,3 +555,15 @@ die Amtssprache;официальный язык;Deutsch ist die <b>Amtssprache</
 der Anruf;звонок;Ich habe einen <b>Anruf</b> verpasst.<br />Heute hatte ich mehrere <b>Anrufe</b>.;Я пропустил <b>звонок</b>.<br />Сегодня у меня было несколько <b>звонков</b>.;;;;;;
 einige;некоторые, несколько;<b>Einige</b> Schüler kommen aus Deutschland.<br />Ich habe noch <b>einige</b> Fragen.;<b>Некоторые</b> ученики из Германии.<br />У меня ещё есть <b>несколько</b> вопросов.;;;;;;
 
+
+gefallen;нравиться;Das Kleid <b>gefällt</b> mir sehr.<br />Der Film hat mir gut <b>gefallen</b>.<br />Das Konzert <b>gefiel</b> uns allen.;Платье мне очень <b>нравится</b>.<br />Фильм мне очень <b>понравился</b>.<br />Концерт <b>понравился</b> нам всем.;;;;;;
+es fällt mir;мне (трудно/легко) что-то даётся;Es <b>fällt mir</b> schwer, früh aufzustehen.<br />Es <b>fiel mir</b> leicht, das zu lernen.<br />Es ist mir schwer <b>gefallen</b>, Nein zu sagen.;Мне <b>трудно</b> вставать рано.<br />Мне <b>было легко</b> это изучить.<br />Мне было <b>тяжело</b> говорить «нет».;;;;;;
+erhalten;получать;Er hat einen Brief <b>erhalten</b>.<br />Wir haben gute Noten <b>erhalten</b>.<br />Ich <b>erhielt</b> gestern eine Einladung.;Он <b>получил</b> письмо.<br />Мы <b>получили</b> хорошие оценки.<br />Вчера я <b>получил</b> приглашение.;;bekommen;;;;
+vorherig;предыдущий;Die <b>vorherige</b> Aufgabe war viel einfacher.<br />In der <b>vorherigen</b> Stunde haben wir das besprochen.;Предыдущее задание было намного проще.<br />На <b>предыдущем</b> уроке мы это обсуждали.;;;;;;
+die Pflicht;обязанность;Es ist meine <b>Pflicht</b>, die Wahrheit zu sagen.<br />Die <b>Pflichten</b> eines Lehrers sind sehr vielfältig.;Моя <b>обязанность</b> — говорить правду.<br /><b>Обязанности</b> учителя очень разнообразны.;;;;;;
+verpflichtet sein;быть обязанным;Ich bin <b>verpflichtet</b>, pünktlich zu erscheinen.<br />Alle Mitarbeiter sind <b>verpflichtet</b>, die Regeln einzuhalten.;Я <b>обязан</b> явиться вовремя.<br />Все сотрудники <b>обязаны</b> соблюдать правила.;;;;;;
+dauerhaft;долговременный, длительный, постоянный;Wir suchen eine <b>dauerhafte</b> Lösung für das Problem.<br />Diese Farbe ist sehr <b>dauerhaft</b> und verblasst nicht.;Мы ищем <b>постоянное</b> решение проблемы.<br />Эта краска очень <b>стойкая</b> и не выцветает.;;;;;;
+langfristig;долгосрочный;Wir müssen <b>langfristig</b> denken und planen.<br />Der Vertrag ist <b>langfristig</b> angelegt.;Мы должны думать и планировать <b>долгосрочно</b>.<br />Договор рассчитан на <b>долгосрочную</b> перспективу.;;;;;;
+die Leistung;мощность, производительность, достижение;Seine <b>Leistung</b> bei der Prüfung war beeindruckend.<br />Die <b>Leistungen</b> der Mannschaft waren außergewöhnlich.;Его <b>результат</b> на экзамене был впечатляющим.<br /><b>Достижения</b> команды были исключительными.;;;;;;
+leistungsfähig;работоспособный, дееспособный;Nach dem Urlaub bin ich wieder voll <b>leistungsfähig</b>.<br />Ein <b>leistungsfähiges</b> Team erzielt bessere Ergebnisse.;После отпуска я снова полностью <b>работоспособен</b>.<br /><b>Дееспособная</b> команда достигает лучших результатов.;;;;;;
+vergesslich;забывчивый;Mein Opa ist sehr <b>vergesslich</b> geworden.<br />Ich werde mit dem Alter immer <b>vergesslicher</b>.;Мой дедушка стал очень <b>забывчивым</b>.<br />С возрастом я становлюсь всё более <b>забывчивым</b>.;;;;;;
