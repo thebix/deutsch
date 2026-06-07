@@ -3,7 +3,9 @@
 #html:true
 #tags:daria redelmittel
 #notetype:German:Expression
-#columns:Front;Back;Example;ExampleTranslation;Notes;Context;ContextTranslation
+#columns:Front;Back;Example;ExampleTranslation;Notes;Synonym;Context;ContextTranslation;FrontNoSeparator;Form2;Form3
 jeden Tag;каждый день;Ich gehe <b>jeden Tag</b> spazieren.;Я гуляю <b>каждый день</b>.;устойчивое сочетание, всегда akk;;;
 nach Lust und Laune;по желанию, по настроению;Ich mag, wenn alles während der Reise <b>nach Lust unf Laune</b> geht.;Мне нравится, когда во время путешествия все идет <b>по настроению</b>.;;;;
 Tipps geben;давать советы;Mein Freund kann mir immer gute <b>Tipps geben</b>.;Мой друг всегда может <b>дать советы</b>.;;;;;
+Hals über Kopf;сломя голову;Er hat sich <b>Hals über Kopf</b> verliebt.<br />Sie ist <b>Hals über Kopf</b> aus dem Haus gerannt.;Он влюбился <b>сломя голову</b>.<br />Она выбежала из дома <b>сломя голову</b>.;;;;;;;;
+die Ohren spitzen;держать ухо востро;Ich <b>spitze</b> die <b>Ohren</b>, wenn ich meinen Namen höre.<br />Er hat die <b>Ohren gespitzt</b>, als das Gespräch begann.;Я <b>навостряю уши</b>, когда слышу своё имя.<br />Он <b>навострил уши</b>, когда разговор начался.;;;;;;;;
