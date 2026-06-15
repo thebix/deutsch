@@ -49,3 +49,7 @@
     <span style="font-size:0.8em;color:#636363">*Ich **werde** bald nach Berlin **fahren**.*</span><span style="font-size:0.65em;color:#63574A">Wrong: *Ich werde bald nach Berlin zu fahren.*</span>  
   - в <span style="color:#F54927">konjuktiv 2</span>  
   <span style="font-size:0.8em;color:#636363">*Ich **hätte** gern **schlafen***</span>
+
+## Управление глаголов
+
+- [pdf](./assets/001-verb-conjugation.pdf)
