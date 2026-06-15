@@ -52,7 +52,7 @@ mühe geben;прикладывать усилия;;;;;
 
 ziemlich;достаточно;<i>Das ist <b>ziemlich</b> einfach.</i>;<i>Это <b>достаточно</b> просто.</i>;;;
 die Gewohnheit;привычка;<i>Ich habe die <b>Gewohnheit</b>, morgens Kaffee zu trinken.</i>;<i>У меня есть <b>привычка</b> пить кофе по утрам.</i>;;;
-sich gewöhnen <b>an</b> + <i>Akk</i>;привыкать к чему-то;<i>Ich kann <b>mich</b> nicht an die Kälte <b>gewöhnen</b>.</i>;<i>Я не могу <b>привыкнуть к</b> холоду.</i>;;;
+sich gewöhnen <b>an</b> + <i>Akk</i>;привыкать к чему-то;Ich <b>gewöhne mich an</b> den neuen Rhythmus.<br />Er hat sich schnell an die neue Stadt <b>gewöhnt</b>.<br />Sie <b>gewöhnte sich</b> langsam an das kalte Wetter.;Я <b>привыкаю</b> к новому ритму.<br />Он быстро <b>привык</b> к новому городу.<br />Она постепенно <b>привыкала</b> к холодной погоде.;с sich: привыкать самому. без sich + Akk лица: приучать кого-то;;;;;
 auf dem Lande;за городом;<i>Wir wohnen jetzt <b>auf dem Lande</b>.</i>;<i>Мы сейчас живем <b>за городом</b>.</i>;;;
 ausfragen;распрашивать;<i>Der Polizist <b>fragte</b> den Zeugen <b>aus</b>.</i>;<i>Полицейский <b>расспрашивал</b> свидетеля.</i>;;;
 angenehm;приятный;<i>Das Treffen war sehr <b>angenehm</b>.</i>;<i>Встреча была очень <b>приятной</b>.</i>;;;
@@ -210,7 +210,7 @@ bemerkbar;заметный;Die Temperaturänderung ist kaum <b>bemerkbar</b>.;И
 
 selten;редко;Ich esse <b>selten</b> Fleisch.;Я ем мясо <b>редко</b>.;;;;;
 erlauben;разрешать;Meine Eltern <b>erlauben</b> mir das nicht.;Мои родители мне это не <b>разрешают</b>.;;;;;
-träumen + <b>von</b> <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einer Reise nach Japan.;Я <b>мечтаю о</b> поездке в Японию.;;;;;
+träumen + <b>von</b> <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einem eigenen Haus.<br />Sie hat die ganze Nacht von ihm <b>geträumt</b>.<br />Als Kind <b>träumte</b> er von großen Abenteuern.;Я <b>мечтаю</b> о собственном доме.<br />Она всю ночь <b>видела его во сне</b>.<br />В детстве он <b>мечтал</b> о великих приключениях.;;;;;;
 verfilmen;снимать (фильмы, видео);Der Regisseur möchte den Roman <b>verfilmen</b>.;Режиссер хочет <b>экранизировать</b> этот роман.;;;;
 der Zeitpunkt;момент;Der <b>Zeitpunkt</b> war günstig.;<b>Момент</b> был удачный.;;;;;
 zu einem günstigen Zeitpunkt;в подходящий момент;Er kam <b>zu einem günstigen Zeitpunkt</b>.;Он пришёл <b>в подходящий момент</b>.;;;;;
@@ -340,7 +340,7 @@ das Lied;песня;Dieses <b>Lied</b> ist sehr schön.;Эта <b>песня</b>
 versuchen;пробовать, пытаться;Ich werde <b>versuchen</b>, die Aufgabe zu lösen.;Я <b>попытаюсь</b> решить эту задачу.;;probieren;;
 einfach;просто;Das ist nicht so <b>einfach</b>.;<b>Просто</b> это не так;;;;;
 die Witze;шутка;Er erzählt immer gute <b>Witze</b>.;Он всегда рассказывает хорошие <b>шутки</b>;;;;;
-bereits;уже;Er hat das <b>bereits</b> erledigt.;Он это <b>уже</b> сделал;;;;;
+bereits;уже;Er hat das <b>bereits</b> erledigt.;Он это <b>уже</b> сделал;;schon;;;
 reiben;тереть;Man muss den Käse fein <b>reiben</b>. ;Нужно мелко <b>тереть</b> сыр;;;;;
 
 der Kopf (die Köpfe);голова;Er nickte mit dem <b>Kopf</b>.;Он кивнул <b>головой</b>.;;;;
@@ -596,3 +596,12 @@ zu·setzen;добавлять;Sie <b>setzt</b> der Suppe etwas Salz <b>zu</b>.<b
 ab·sagen;отменять;Leider muss ich unseren Termin <b>ab·sagen</b>.<br />Sie <b>sagt</b> das Meeting <b>ab</b>.<br />Er hat den Flug <b>ab·ge·sagt</b>.<br />Wir <b>sagten</b> die Party kurzfristig <b>ab</b>.;К сожалению, мне нужно <b>отменить</b> нашу встречу.<br />Она <b>отменяет</b> совещание.<br />Он <b>отменил</b> рейс.<br />Мы <b>отменили</b> вечеринку в последний момент.;;;;;absagen;
 vereinbaren;договариваться, согласовывать;Wir <b>vereinbaren</b> einen Termin für nächste Woche.<br />Sie haben den Treffpunkt telefonisch <b>vereinbart</b>.<br />Die beiden Seiten <b>vereinbarten</b> eine Pause.;Мы <b>договариваемся</b> о встрече на следующей неделе.<br />Они <b>договорились</b> о месте встречи по телефону.<br />Обе стороны <b>договорились</b> о перерыве.;;;;;;;;
 ein·tauchen;погружаться;Er <b>taucht</b> in die fremde Kultur <b>ein</b>.<br />Das Buch lässt uns in eine andere Welt <b>ein·tauchen</b>.<br />Sie ist völlig in die Geschichte <b>ein·ge·taucht</b>.<br /><b>Tauchte</b> er tief ins Wasser <b>ein</b>?;Он <b>погружается</b> в чужую культуру.<br />Книга позволяет нам <b>погрузиться</b> в другой мир.<br />Она полностью <b>погрузилась</b> в историю.<br /><b>Погружался</b> ли он глубоко в воду?;;;;;eintauchen;
+
+der Geschmack;вкус;Der <b>Geschmack</b> dieser Torte ist wunderbar.<br />Die <b>Geschmäcker</b> der Menschen sind sehr unterschiedlich.;<b>Вкус</b> этого торта восхитителен.<br /><b>Вкусы</b> людей очень разные.;;;;;;
+die Herkunft;происхождение;Er spricht offen über seine <b>Herkunft</b>.<br />Menschen verschiedener <b>Herkünfte</b> leben in dieser Stadt zusammen.;Он открыто говорит о своём <b>происхождении</b>.<br />Люди разного <b>происхождения</b> живут вместе в этом городе.;;;;;;
+fliehen;убегать, спасаться бегством;Viele Menschen <b>fliehen</b> vor dem Krieg.<br />Die Familie ist aus der Stadt <b>geflohen</b>.<br />Er <b>floh</b> heimlich in der Nacht aus dem Gefängnis.;Многие люди <b>бегут</b> от войны.<br />Семья <b>сбежала</b> из города.<br />Он <b>сбежал</b> ночью тайно из тюрьмы.;;;;;;
+schwanger;беременная;Meine Schwester ist <b>schwanger</b>.<br />Sie war im dritten Monat <b>schwanger</b>, als ich sie zuletzt sah.;Моя сестра <b>беременна</b>.<br />Она была на третьем месяце <b>беременности</b>, когда я видел её последний раз.;;;;;;
+traurig;грустный, печальный;Das Kind ist <b>traurig</b>, weil sein Hund krank ist.<br />Ich war sehr <b>traurig</b>, als ich die Nachricht hörte.;Ребёнок <b>грустит</b>, потому что его собака больна.<br />Мне было очень <b>грустно</b>, когда я услышал эту новость.;;;;;;
+sich bewerben <b>bei</b> + <i>Dat</i>;подавать заявление в (компанию, организацию);Er <b>bewirbt sich bei</b> einer großen Firma.<br />Sie hat sich bei drei Unternehmen <b>beworben</b>.<br />Ich <b>bewarb mich bei</b> der Deutschen Bank.;Он <b>подаёт заявление</b> в крупную фирму.<br />Она <b>подала заявление</b> в три компании.<br />Я <b>подал заявление</b> в Дойче Банк.;также sich bewerben <b>um</b> + <i>Akk</i> — на должность;;;;;
+ein·laden <b>zu</b> + <i>Dat</i>;приглашать на что-либо;Er <b>lädt</b> uns zu seinem Geburtstag <b>ein</b>.<br />Ich möchte dich zu meiner Party <b>ein·laden</b>.<br />Sie hat uns zum Abendessen <b>ein·ge·laden</b>.<br />Er <b>lud</b> mich zu seiner Hochzeit <b>ein</b>.;Он <b>приглашает</b> нас на свой день рождения.<br />Я хочу <b>пригласить</b> тебя на мою вечеринку.<br />Она <b>пригласила</b> нас на ужин.<br />Он <b>пригласил</b> меня на свою свадьбу.;;;;;einladen;
+
