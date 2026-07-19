@@ -54,7 +54,7 @@ ziemlich;достаточно;<i>Das ist <b>ziemlich</b> einfach.</i>;<i>Это 
 die Gewohnheit;привычка;<i>Ich habe die <b>Gewohnheit</b>, morgens Kaffee zu trinken.</i>;<i>У меня есть <b>привычка</b> пить кофе по утрам.</i>;;;
 sich gewöhnen <b>an</b> + <i>Akk</i>;привыкать к чему-то;Ich <b>gewöhne mich an</b> den neuen Rhythmus.<br />Er hat sich schnell an die neue Stadt <b>gewöhnt</b>.<br />Sie <b>gewöhnte sich</b> langsam an das kalte Wetter.;Я <b>привыкаю</b> к новому ритму.<br />Он быстро <b>привык</b> к новому городу.<br />Она постепенно <b>привыкала</b> к холодной погоде.;с sich: привыкать самому. без sich + Akk лица: приучать кого-то;;;;;
 auf dem Lande;за городом;<i>Wir wohnen jetzt <b>auf dem Lande</b>.</i>;<i>Мы сейчас живем <b>за городом</b>.</i>;;;
-ausfragen;распрашивать;<i>Der Polizist <b>fragte</b> den Zeugen <b>aus</b>.</i>;<i>Полицейский <b>расспрашивал</b> свидетеля.</i>;;;
+ausfragen;расспрашивать;<i>Der Polizist <b>fragte</b> den Zeugen <b>aus</b>.</i>;<i>Полицейский <b>расспрашивал</b> свидетеля.</i>;;;
 angenehm;приятный;<i>Das Treffen war sehr <b>angenehm</b>.</i>;<i>Встреча была очень <b>приятной</b>.</i>;;;
 die Abhängigkeit;зависимость;<i>Er hat eine <b>Abhängigkeit</b> von Kaffee.</i>;<i>У него есть <b>зависимость</b> от кофе.</i>;;;
 überfordern;перенапрягать;<i>Die Arbeit <b>überfordert</b> mich.</i>;<i>Эта работа меня <b>перенапрягает</b>.</i>;;;
@@ -210,7 +210,7 @@ bemerkbar;заметный;Die Temperaturänderung ist kaum <b>bemerkbar</b>.;И
 
 selten;редко;Ich esse <b>selten</b> Fleisch.;Я ем мясо <b>редко</b>.;;;;;
 erlauben;разрешать;Meine Eltern <b>erlauben</b> mir das nicht.;Мои родители мне это не <b>разрешают</b>.;;;;;
-träumen + <b>von</b> <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einem eigenen Haus.<br />Sie hat die ganze Nacht von ihm <b>geträumt</b>.<br />Als Kind <b>träumte</b> er von großen Abenteuern.;Я <b>мечтаю</b> о собственном доме.<br />Она всю ночь <b>видела его во сне</b>.<br />В детстве он <b>мечтал</b> о великих приключениях.;;;;;;
+träumen <b>von</b> + <i>Dat</i>;мечтать о чём-то;Ich <b>träume von</b> einem eigenen Haus.<br />Sie hat die ganze Nacht von ihm <b>geträumt</b>.<br />Als Kind <b>träumte</b> er von großen Abenteuern.;Я <b>мечтаю</b> о собственном доме.<br />Она всю ночь <b>видела его во сне</b>.<br />В детстве он <b>мечтал</b> о великих приключениях.;;;;;;
 verfilmen;снимать (фильмы, видео);Der Regisseur möchte den Roman <b>verfilmen</b>.;Режиссер хочет <b>экранизировать</b> этот роман.;;;;
 der Zeitpunkt;момент;Der <b>Zeitpunkt</b> war günstig.;<b>Момент</b> был удачный.;;;;;
 zu einem günstigen Zeitpunkt;в подходящий момент;Er kam <b>zu einem günstigen Zeitpunkt</b>.;Он пришёл <b>в подходящий момент</b>.;;;;;
@@ -289,7 +289,7 @@ die Ausstellung;выставка;Die <b>Ausstellung</b> war sehr interessant.;<b
 ausstellen;выставлять;Das Museum <b>stellt</b> neue Gemälde <b>aus</b>.;Музей <b>выставляет</b> новые картины;;;;;
 die Anerkennung;признание;Er hat große <b>Anerkennung</b> für seine Arbeit bekommen.;Он получил большое <b>признание</b> за свою работу;;;;;
 der Weltraum;космос;Der <b>Weltraum</b> ist unendlich groß.;<b>Космос</b> бесконечен;;;;;
-ein Fleck;пятно;Du hast einen <b>Fleck</b> auf deinem Hemd.;У тебя <b>пятно</b> на рубашке;;;;;
+der Fleck;пятно;Du hast einen <b>Fleck</b> auf deinem Hemd.;У тебя <b>пятно</b> на рубашке;;;;;
 der Tropfen;капля;Ein <b>Tropfen</b> Wasser fiel auf den Boden.;<b>Капля</b> воды упала на пол;;;;;
 die Sache;вещь;Ich habe meine <b>Sachen</b> im Auto gelassen.;Я оставил свои <b>вещи</b> в машине;;;;;
 winzig;крошечный;Das Baby hat <b>winzige</b> Finger.;У малыша <b>крошечные</b> пальцы;;klein;;;
@@ -299,7 +299,7 @@ jederzeit;в любое время;Sie können mich <b>jederzeit</b> anrufen.;В
 ziehen;тянуть;Bitte <b>ziehen</b> Sie die Tür!;Пожалуйста, <b>тяните</b> дверь!;;;;;
 ausziehen;вытянуть, снимать;Ich <b>ziehe</b> meine Jacke <b>aus</b>.;Я <b>снимаю</b> куртку;;;;;
 gedeckt;накрыто;Der Tisch ist schon <b>gedeckt</b>.;Стол уже <b>накрыт</b>;;;;;
-die Zufriedenheit;удовлетворение;Er lebt in großer <b>Zufriedenheit</b>.;Он живет в большом <b>удовлетворении</b>;;;;;
+die Zufriedenheit;удовлетворённость, довольство (состояние);Er lebt in großer <b>Zufriedenheit</b>.;Он живет в большом <b>удовлетворении</b>;;;;;
 verbinden;связывать;Ein Tunnel <b>verbindet</b> die zwei Städte.;Тоннель <b>соединяет</b> два города;;;;;
 verbunden sein;быть связанным;Ich fühle mich stark mit meiner Familie <b>verbunden</b>.;Я чувствую себя крепко <b>связанным</b> со своей семьей;;;;;
 das Verhältnis;поведение, отношение;Das <b>Verhältnis</b> zwischen den Kollegen ist gut.;<b>Отношения</b> между коллегами хорошие;;;;;
@@ -370,18 +370,18 @@ die Türkei;Турция;Wir haben unseren Urlaub in der <b>Türkei</b> verbrach
 die Ukraine;Украина;Er kommt aus der <b>Ukraine</b>.;Он родом из <b>Украины</b>.;;;;
 täuschen;обманывать;Der Schein kann <b>täuschen</b>.;Внешность может <b>обманывать</b>.;;;;
 der Umstieg;пересадка;Der <b>Umstieg</b> in München dauert 20 Minuten.;<b>Пересадка</b> в Мюнхене длится 20 минут.;;;;
-umsteigen;пересаживаться;Sie müssen in Berlin <b>umsteigen</b>.;Вам нужно <b>пересесть</b> в Берлине.;;;;
-einsteigen;садиться в транспорт;Bitte <b>steigen</b> Sie schnell <b>ein</b>.;Пожалуйста, быстро <b>садитесь</b>.;;;;
-aussteigen;выходить из транспорта;An welcher Haltestelle muss ich <b>aussteigen</b>?;На какой остановке мне нужно <b>выйти</b>?;;;;
+um·steigen;пересаживаться;Wir <b>steigen</b> am Hauptbahnhof <b>um</b>.<br />Sie müssen in Berlin <b>um·steigen</b>.<br />Ich bin in Frankfurt <b>um·ge·stiegen</b>.<br />Er <b>stieg</b> in Köln in den Bus <b>um</b>.;Мы <b>пересаживаемся</b> на главном вокзале.<br />Вам нужно <b>пересесть</b> в Берлине.<br />Я <b>пересел</b> во Франкфурте.<br />Он <b>пересел</b> в Кёльне на автобус.;;;;;umsteigen;
+ein·steigen;садиться в транспорт;Bitte <b>steigen</b> Sie schnell <b>ein</b>.<br />Du musst vorne <b>ein·steigen</b>.<br />Sie ist in den falschen Zug <b>ein·ge·stiegen</b>.<br />Er <b>stieg</b> in das Taxi <b>ein</b>.;Пожалуйста, быстро <b>садитесь</b>.<br />Тебе нужно <b>садиться</b> спереди.<br />Она <b>села</b> не в тот поезд.<br />Он <b>сел</b> в такси.;;;;;einsteigen;
+aus·steigen;выходить из транспорта;An welcher Haltestelle muss ich <b>aus·steigen</b>?<br />Wir <b>steigen</b> an der nächsten Station <b>aus</b>.<br />Er ist am Marktplatz <b>aus·ge·stiegen</b>.<br />Sie <b>stieg</b> aus dem Taxi <b>aus</b>.;На какой остановке мне нужно <b>выйти</b>?<br />Мы <b>выходим</b> на следующей станции.<br />Он <b>вышел</b> на Марктплац.<br />Она <b>вышла</b> из такси.;;;;;aussteigen;
 derselbe;такой же;Er trägt jeden Tag <b>dieselbe</b> Jacke.;Он носит каждый день <b>такую же</b> куртку.;;;;
 derjenige;тот же;<b>Derjenige</b>, der das getan hat, soll sich melden.;<b>Тот</b>, кто это сделал, должен отозваться.;;;;
 in Wirklichkeit;в реальности;<b>In Wirklichkeit</b> ist alles anders.;<b>В реальности</b> всё по-другому.;;;;
 sich entscheiden <b>für</b> + <i>Akk</i>;решаться на что-то;Ich habe <b>mich für</b> dieses Auto <b>entschieden</b>.;Я <b>решился на</b> эту машину.;;;;
 auswählen;выбирать из вариантов;Bitte <b>wählen</b> Sie ein Gericht aus der Karte <b>aus</b>.;Пожалуйста, <b>выберите</b> блюдо из меню.;;;;
 vorschlagen;предлагать (идею, план);Ich <b>schlage vor</b>, dass wir morgen gehen.;Я <b>предлагаю</b>, чтобы мы пошли завтра.;;;;
-der Vorschlag;предложение;Das ist ein guter <b>Vorschlag</b>.;Это хорошее <b>предложение</b>.;;;;
+der Vorschlag;предложение (идея, план);Das ist ein guter <b>Vorschlag</b>.;Это хорошее <b>предложение</b>.;;;;
 anbieten;предлагать (вещь, помощь, услугу);Kann ich Ihnen etwas zu trinken <b>anbieten</b>?;Могу ли я вам <b>предложить</b> что-нибудь попить?;;;;
-das Angebot;предложение;Das <b>Angebot</b> gilt nur heute.;<b>Предложение</b> действует только сегодня.;;;;
+das Angebot;предложение (товар, услуга, оферта);Das <b>Angebot</b> gilt nur heute.;<b>Предложение</b> действует только сегодня.;;;;
 
 der Umgang;окружение (люди, друзья);Ich habe einen guten <b>Umgang</b> mit meinen Kollegen.;У меня хорошие <b>отношения</b> с коллегами.;;;;
 die Komplikation;усложнение;Es gab einige <b>Komplikationen</b> bei der Operation.;При операции возникли некоторые <b>осложнения</b>.;;;;
