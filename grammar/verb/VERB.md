@@ -4,6 +4,7 @@
 
 - После <span style="color:#F54927">Lassen</span> всегда <span style="color:#F54927">Akk</span>
 - <span style="color:#F54927">Zu</span> примерно тоже самое, что <span style="color:#F54927">в английском "to"</span>. Глагол после <span style="color:#F54927">всегда в инфинитиве</span>
+- Passiv: <span style="color:#F54927">werden</span> в нужной форме + <span style="color:#F54927">Partizip II</span>
 
 ## Возвратные
 
@@ -53,3 +54,36 @@
 ## Управление глаголов
 
 - [pdf](./assets/001-verb-conjugation.pdf)
+
+## Страдательный залог / Passiv
+
+- [pdf](./assets/002-verb-passive.pdf)
+
+<span style="color:#F54927">Passiv</span> образуется при помощи вспомогательного глалога <span style="color:#F54927">werden</span> *в соответствующей временной форме* и <span style="color:#F54927">Partizip II</span>  
+<span style="font-size:0.8em;color:#636363">*Ein interessantes Buch **wird** von dem Jungen **gelesen***.</span> <span style="font-size:0.65em;color:#63574A">Aktiv: *Der Junge **liest** ein interresantes Buch.*</span>
+
+> [!TIP]
+> werden - wurde - geworden
+
+<img src="assets/003-passive-table.jpg" width="720px" />
+<img src="assets/004-passive-table.jpg" width="720px" />
+<img src="assets/005-passive-table.jpg" width="720px" />
+
+> [!CAUTION]
+> <span style="color:#F54927">Perfekt</span> Passiv и <span style="color:#F54927">Plusquamperfekt</span> Passiv употребляется старая форма Partizip II - <span style="color:#F54927">worden</span> (не geworden)
+
+- <span style="color:#F54927">Von</span> + *Dat* - указывает на действующее лицо (часто *одушевленное*). <span style="font-size:0.8em;color:#636363">*Das Haus wird **von** dem Bauarbeiter gebaut.*</span>
+- <span style="color:#F54927">Durch</span> + *Akk* - на указывает на средство, причину или инструмент, посредством чего произошло действие (часто *неодушевленное*). <span style="font-size:0.8em;color:#636363">*Das Problem wird **durch** ein Update gelöst.*</span>
+
+### В Passiv не употребляются
+
+- bekommen - получать
+- interessieren - интересовать
+- besitzen - обладать
+- kennen - знать
+- enthalten - содержать в себе
+- kosten - стоить
+- erfahren - узнавать
+- wissen - знать
+- haben - иметь
+- kennenlernen - знакомиться
